@@ -1,0 +1,2001 @@
+customer-id,customer name,gender,age,price,quantity,purchase-date,email,category
+1,,unknown,76.0,451.48,21.0,invalid_date,,Electronics
+2,Melanie Thornton,,,,180.0,2010-06-07,,ClOThIng
+3,Lisa Oliver,Female,61.0,75.86,54.0,invalid_date,nreed@cummings-carney.com,ClOThIng
+4,,female,,146.31,144.0,2021-13-40,christophermartin@evans.com,furnITure
+5,Shane Cannon,female,,,57.0,,hsmith@yu-ryan.com,CLOTHING
+6,,MALE,29.0,,80.0,2021-07-19,,electronics
+7,anthony,,,314.81,66.0,,,ClOThIng
+8,Christopher,,,105.5,139.0,2020-03-26,stevebarr@hotmail.com,ClOThIng
+9,Meghan Garcia,,34.0,471.37,200.0,invalid_date,,Cloth ing
+10,william,MALE,68.0,,,2005-07-13,,Electronics
+11,ANDREA,MALE,29.0,175.96,147.0,2014-08-16,williamsmichelle@johnson-lewis.com,Cloth ing
+12,Michelle Spears,Female,92.0,,37.0,2021-03-20,,clothing
+13,Kristin Knox,MALE,52.0,,176.0,2021-13-40,cjohnson@hotmail.com,eLeCtrOnIcs
+14,Lisa,Male,55.0,-32.21,,,gleon@gmail.com,electronics
+15,CHRISTOPHER,female,32.0,,154.0,2006-11-18,,CLOTHING
+16,GREGORY,unknown,46.0,176.01,195.0,invalid_date,riveradavid@garcia.com,clothing
+17,mark,female,,118.66,26.0,2021-13-40,,furnITure
+18,CHRISTINE,,,-47.05,40.0,2021-13-40,jennifer48@anderson.org,eLeCtrOnIcs
+19,,Male,21.0,61.54,-4.0,2024-10-18,ypatterson@perkins.info,Electronics
+20,Deborah Spears,MALE,,323.31,94.0,2021-13-40,jennifermcbride@gmail.com,electronics
+21,Benjamin Grimes,,79.0,366.38,,invalid_date,,clothing
+22,MARGARET,MALE,32.0,,,2021-13-40,umiller@briggs.com,Cloth ing
+23,Kimberly,unknown,92.0,432.9,13.0,2009-05-02,amy43@weeks-lang.info,Cloth ing
+24,Steven Orozco,female,63.0,205.78,,2023-08-18,,Cloth ing
+25,,,60.0,,67.0,,ryan29@hotmail.com,eLeCtrOnIcs
+26,shannon,MALE,47.0,,193.0,2020-06-23,,Cloth ing
+27,steven,,,,,2010-06-21,barnesdiana@dawson.com,ClOThIng
+28,Rebecca Cervantes,unknown,25.0,-2.91,60.0,,,Electronics
+29,Sara Thomas,MALE,84.0,,131.0,invalid_date,,clothing
+30,Julie,,55.0,184.85,5.0,invalid_date,,ClOThIng
+31,Roberto Brown,,,261.63,,2018-02-09,,Cloth ing
+32,tammy,,20.0,158.54,15.0,2024-11-03,,electronics
+33,,unknown,,,130.0,2021-13-40,,ClOThIng
+34,,,21.0,164.08,,invalid_date,,Cloth ing
+35,RICHARD,MALE,49.0,296.71,,invalid_date,,ClOThIng
+36,Victor Johnson,Male,83.0,,,invalid_date,,furniture
+37,,Male,,321.46,,2021-13-40,,ClOThIng
+38,,,69.0,113.73,114.0,invalid_date,callahanlinda@ruiz.com,electronics
+39,,Male,49.0,128.3,115.0,2021-05-17,,eLeCtrOnIcs
+40,Stanley Arnold,Female,27.0,38.14,,2001-04-25,,furnITure
+41,allison,Male,,243.3,,2019-06-08,andreacooper@gmail.com,eLeCtrOnIcs
+42,robert,Male,96.0,27.53,17.0,invalid_date,mkaufman@yahoo.com,Cloth ing
+43,Patricia,MALE,80.0,60.81,82.0,,,furniture
+44,Jennifer Williams,unknown,77.0,293.87,,2001-10-10,,CLOTHING
+45,paula,,,,,invalid_date,zbrown@hotmail.com,furniture
+46,Deborah,unknown,37.0,26.09,,,robinsonmorgan@goodwin-allen.org,furnITure
+47,,Female,85.0,,42.0,2021-13-40,rcontreras@smith.info,electronics
+48,mark,Female,64.0,3.3,74.0,2006-06-08,,Electronics
+49,Emily Andrews,Male,68.0,113.0,123.0,,,electronics
+50,,MALE,52.0,94.28,,2022-09-26,,furnITure
+51,,,,,,2021-13-40,,electronics
+52,LINDSAY,unknown,24.0,,184.0,2017-08-05,,Cloth ing
+53,Stephanie Hampton,,,210.28,,,,CLOTHING
+54,Misty Blankenship,Female,,76.25,154.0,,,electronics
+55,lori,MALE,51.0,30.33,98.0,2025-09-21,,furnITure
+56,KEITH,unknown,,,,2021-13-40,,clothing
+57,,female,52.0,254.69,85.0,2021-13-40,,clothing
+58,,,47.0,68.48,120.0,,,Cloth ing
+59,,,76.0,386.66,171.0,2021-13-40,joseph62@hotmail.com,CLOTHING
+60,Lisa,Female,71.0,436.02,85.0,invalid_date,,Cloth ing
+61,,female,42.0,,116.0,invalid_date,,electronics
+62,Carrie,unknown,37.0,,183.0,2021-13-40,bellchristopher@hotmail.com,furnITure
+63,Laura,,65.0,142.56,92.0,2023-06-14,,electronics
+64,,,48.0,,140.0,invalid_date,,clothing
+65,samantha,unknown,23.0,-1.14,178.0,invalid_date,ihill@turner.com,electronics
+66,Samantha,unknown,39.0,286.14,140.0,2007-11-21,kelly43@guzman.com,Electronics
+67,lisa,,15.0,,,2021-04-05,,furniture
+68,CHRISTOPHER,,37.0,-32.26,2.0,2020-03-19,,CLOTHING
+69,Donald Evans,,,,93.0,2005-07-22,,clothing
+70,mark,MALE,31.0,139.45,,2021-13-40,,electronics
+71,Cynthia Garcia,,24.0,-7.39,131.0,2005-05-11,,CLOTHING
+72,michael,female,77.0,112.48,,invalid_date,sferguson@gmail.com,CLOTHING
+73,Keith,Male,,59.45,,2021-13-40,,Cloth ing
+74,Stacie Kennedy,MALE,,82.31,180.0,,,CLOTHING
+75,Haley Smith,female,20.0,475.7,195.0,2021-06-02,,clothing
+76,KAITLIN,unknown,31.0,3.42,33.0,2021-13-40,lawrence06@yahoo.com,furnITure
+77,,MALE,,,,2021-13-40,matthewsmith@gmail.com,CLOTHING
+78,,MALE,93.0,19.32,8.0,,,CLOTHING
+79,Sara,unknown,31.0,,78.0,,,ClOThIng
+80,Felicia Norris,Male,56.0,454.34,101.0,2024-08-03,,ClOThIng
+81,,unknown,42.0,,10.0,2021-13-40,,eLeCtrOnIcs
+82,,unknown,,141.97,118.0,2020-12-13,,furnITure
+83,kevin,Male,,459.69,50.0,2021-13-40,sparkschelsea@montoya.net,CLOTHING
+84,Seth,female,65.0,27.03,,2014-03-11,,clothing
+85,Bob Peterson,unknown,33.0,163.05,112.0,2012-04-30,stevencarlson@gmail.com,furnITure
+86,,Male,28.0,435.96,,2005-02-23,melissa28@reeves-daniel.com,Cloth ing
+87,Melissa,MALE,32.0,,,2016-12-11,,clothing
+88,jessica,Female,,,,2022-05-19,,electronics
+89,doris,MALE,71.0,237.02,,2023-07-09,,Electronics
+90,John Rivas,Female,21.0,174.15,83.0,2003-10-07,,Electronics
+91,Maria,Male,56.0,-28.82,,2023-04-29,,CLOTHING
+92,Lisa,unknown,56.0,411.38,,2021-13-40,,furnITure
+93,jonathan,unknown,79.0,,95.0,,,electronics
+94,,Male,96.0,106.49,,2022-02-25,,Cloth ing
+95,Aaron,Female,67.0,,,,,Cloth ing
+96,Benjamin Medina,MALE,39.0,175.86,187.0,2021-13-40,,clothing
+97,ERIC,Male,,,,invalid_date,,furnITure
+98,linda,Male,63.0,-38.05,,,,eLeCtrOnIcs
+99,Jim Branch,,63.0,133.59,,2024-04-05,,CLOTHING
+100,HEIDI,female,,,111.0,2021-08-28,zacharyramirez@yahoo.com,eLeCtrOnIcs
+101,Robert,unknown,39.0,,,2021-02-18,,furnITure
+102,ROBERT,MALE,13.0,,127.0,2014-04-06,,Electronics
+103,Robert,MALE,33.0,,175.0,,,Cloth ing
+104,John Hamilton,MALE,73.0,192.75,127.0,2022-06-07,,CLOTHING
+105,william,unknown,,185.75,,2020-07-06,,furniture
+106,,female,,114.61,,2021-03-21,,furniture
+107,,Male,89.0,9.39,108.0,,,electronics
+108,,Male,,176.4,171.0,2006-08-28,,CLOTHING
+109,andrew,Female,60.0,,161.0,,,electronics
+110,Nicole Rhodes,MALE,,315.39,179.0,2021-13-40,,Electronics
+111,Joshua,unknown,41.0,162.43,,2021-13-40,,Electronics
+112,Alexander,MALE,34.0,,,2023-07-10,,clothing
+113,Amber,Female,42.0,18.33,58.0,2008-01-02,,furniture
+114,mark,MALE,20.0,43.94,101.0,2021-13-40,kariestrada@yahoo.com,Cloth ing
+115,Stacy,Female,,-39.88,120.0,2022-02-28,david50@williams-torres.org,Cloth ing
+116,Holly Schultz,female,66.0,-17.26,,2021-13-40,,Electronics
+117,Benjamin Meyer,unknown,92.0,,86.0,,,Electronics
+118,james,MALE,80.0,130.81,151.0,invalid_date,,eLeCtrOnIcs
+119,CHRISTIAN,,58.0,29.71,,,hdixon@gmail.com,ClOThIng
+120,Raymond Strickland,,,,,,katherinegreen@yahoo.com,CLOTHING
+121,KRISTEN,MALE,43.0,85.23,,2021-13-40,,electronics
+122,Audrey Harris,,,41.94,173.0,2022-02-13,,clothing
+123,,female,32.0,97.76,,2021-13-40,andersonsamantha@gmail.com,CLOTHING
+124,,unknown,31.0,,,,,clothing
+125,scott,,66.0,94.28,92.0,2021-13-40,ryanmurphy@hicks.info,Electronics
+126,DAVID,Female,53.0,,148.0,2020-07-27,,Electronics
+127,,Male,60.0,,12.0,,,furnITure
+128,hunter,,39.0,,121.0,2024-01-17,leahroberts@yahoo.com,ClOThIng
+129,mark,female,62.0,181.53,195.0,,,clothing
+130,Dominique,,66.0,364.36,30.0,2021-13-40,,clothing
+131,,unknown,,147.17,197.0,2010-03-16,,ClOThIng
+132,,unknown,77.0,-39.04,141.0,2021-13-40,hunterwells@murray.net,Electronics
+133,john,,30.0,111.62,157.0,invalid_date,,Cloth ing
+134,adam,MALE,49.0,,127.0,2025-07-12,ryan37@gmail.com,Electronics
+135,Megan,Male,,,113.0,2021-13-40,,furnITure
+136,Annette Cross,female,55.0,,50.0,2021-13-40,rperez@gmail.com,furniture
+137,,unknown,,,,invalid_date,,furniture
+138,April Santos,Male,48.0,-40.68,,2024-12-16,,eLeCtrOnIcs
+139,,MALE,56.0,,,invalid_date,,clothing
+140,paul,MALE,74.0,68.11,,,,Cloth ing
+141,HANNAH,Female,71.0,,89.0,2021-13-40,haley56@meyer-anderson.com,Electronics
+142,Caitlin,MALE,66.0,116.73,,2020-07-06,patricksmith@thompson-cooley.info,ClOThIng
+143,Paige Jones,,59.0,,,invalid_date,,Electronics
+144,David Butler,female,60.0,,16.0,2021-13-40,,furniture
+145,Kristy,Male,58.0,114.16,94.0,invalid_date,tamaraoneill@greene.com,clothing
+146,Gerald,female,40.0,-15.16,,invalid_date,,furnITure
+147,Joseph Bryant,Male,,,153.0,2014-09-24,,eLeCtrOnIcs
+148,Bradley Moreno,,,200.64,150.0,2025-02-20,,ClOThIng
+149,gregory,MALE,58.0,140.11,44.0,invalid_date,,electronics
+150,RUSSELL,MALE,,,156.0,,grahamshelby@gmail.com,Cloth ing
+151,Mike,female,,26.44,54.0,2021-13-40,mckenziescott@gmail.com,furniture
+152,,,92.0,77.7,67.0,2018-04-05,,clothing
+153,ALLISON,Male,26.0,,,invalid_date,,clothing
+154,jennifer,MALE,,93.12,170.0,invalid_date,,electronics
+155,veronica,,65.0,,200.0,2025-10-15,,electronics
+156,James Gutierrez,Female,25.0,103.11,117.0,2023-08-09,,furniture
+157,HEATHER,MALE,41.0,63.46,,2024-11-02,sharontrevino@yahoo.com,furnITure
+158,,Male,60.0,120.98,,2022-04-10,xjohnson@hotmail.com,ClOThIng
+159,david,female,,,101.0,2025-03-06,brownpaula@yahoo.com,eLeCtrOnIcs
+160,Matthew,Female,,,70.0,invalid_date,,CLOTHING
+161,Jessica,MALE,,,154.0,2022-06-11,,Electronics
+162,David,,,41.04,123.0,,kellyray@hotmail.com,furnITure
+163,,female,23.0,165.47,,2022-02-27,,clothing
+164,,Female,63.0,,,2021-13-40,,electronics
+165,Alison,unknown,81.0,,,2002-09-12,johnsonjason@goodwin.net,furniture
+166,Gabriel,MALE,67.0,,179.0,2021-13-40,,furnITure
+167,Andre,Male,79.0,,,,,Cloth ing
+168,Latoya,MALE,66.0,,22.0,2021-13-40,,CLOTHING
+169,Lisa,female,43.0,,,,,furnITure
+170,Danielle Alvarez,female,86.0,258.08,,,davidgordon@richardson.info,furniture
+171,henry,female,32.0,,14.0,,rossalec@rich-wheeler.org,clothing
+172,JEFFREY,MALE,42.0,6.91,130.0,invalid_date,,furniture
+173,Carl,MALE,56.0,237.0,113.0,invalid_date,peterwright@medina-perry.com,clothing
+174,CHRISTINA,female,33.0,70.38,172.0,2021-13-40,richard72@cannon.net,Cloth ing
+175,DENISE,female,37.0,,61.0,invalid_date,david08@diaz.com,clothing
+176,MICHELE,MALE,58.0,-36.66,32.0,2021-10-09,rodney60@gmail.com,furnITure
+177,,unknown,,113.68,15.0,2019-04-14,dwilson@hotmail.com,furniture
+178,kimberly,Male,,177.27,,2020-02-03,,Cloth ing
+179,,unknown,,,197.0,2007-04-18,,ClOThIng
+180,David Hartman,,41.0,382.18,120.0,2021-13-40,,clothing
+181,calvin,Female,62.0,154.03,8.0,2023-08-20,,eLeCtrOnIcs
+182,Joseph Peters,MALE,30.0,-17.38,2.0,2021-12-12,,electronics
+183,,unknown,90.0,,,invalid_date,,electronics
+184,KIMBERLY,MALE,,189.3,41.0,2000-09-26,wendy54@hunt.com,eLeCtrOnIcs
+185,Christian,unknown,58.0,60.02,165.0,2002-11-04,brittany97@graham.info,furnITure
+186,Stephanie Miles,unknown,,,,invalid_date,,Cloth ing
+187,Madeline,,27.0,,67.0,,campbellnathaniel@hotmail.com,electronics
+188,Courtney,female,,37.62,122.0,,,furniture
+189,matthew,MALE,33.0,383.95,48.0,2022-06-26,,Electronics
+190,Aaron,,,,40.0,invalid_date,,eLeCtrOnIcs
+191,denise,unknown,55.0,-22.26,,2025-07-13,,CLOTHING
+192,,Male,11.0,,148.0,2023-12-24,,furniture
+193,,MALE,34.0,,,2020-03-13,,electronics
+194,Stephanie Gilmore,unknown,53.0,110.83,,,,furniture
+195,,,85.0,67.33,142.0,2021-13-40,,Cloth ing
+196,Allison James,,71.0,61.24,196.0,2021-13-40,,furniture
+197,amy,,61.0,,,invalid_date,thomasmcintosh@brown.net,CLOTHING
+198,Richard,MALE,41.0,71.05,,2021-13-40,,furnITure
+199,Jessica,MALE,25.0,,,2015-10-27,,furniture
+200,HEATHER,MALE,,77.42,-1.0,,kylejennings@yahoo.com,furnITure
+201,Lisa,unknown,,390.52,73.0,invalid_date,,ClOThIng
+202,Rachel,MALE,,301.5,,2022-07-14,,CLOTHING
+203,,,,179.05,18.0,2021-06-12,,furniture
+204,KIMBERLY,,76.0,,,2021-13-40,twilson@thompson.org,CLOTHING
+205,,Female,70.0,-19.48,,2021-13-40,,furnITure
+206,Paul,female,,204.64,175.0,invalid_date,john45@gmail.com,furniture
+207,,unknown,31.0,16.97,4.0,,matthewgill@hotmail.com,ClOThIng
+208,,female,34.0,32.08,,2021-13-40,,furnITure
+209,William Harper,female,,-48.36,168.0,invalid_date,,clothing
+210,jennifer,MALE,59.0,89.18,119.0,2020-07-23,,Cloth ing
+211,Bradley,female,,,,2001-07-13,,Cloth ing
+212,victor,female,11.0,,,,,electronics
+213,,,,,114.0,2021-13-40,wattsjennifer@avila-luna.com,Cloth ing
+214,ALISON,unknown,68.0,76.94,51.0,2021-13-40,heather70@chambers.biz,electronics
+215,,unknown,44.0,130.62,,2023-03-17,ritayoung@rodriguez.biz,furnITure
+216,,MALE,73.0,196.89,9.0,2021-13-40,,furnITure
+217,kevin,female,,49.51,,2007-10-11,moralessarah@yahoo.com,electronics
+218,,unknown,,333.77,94.0,,,clothing
+219,kaitlyn,MALE,55.0,69.5,126.0,2024-06-18,longlisa@mays.com,Electronics
+220,ANGELA,female,51.0,482.48,163.0,invalid_date,bmorrison@bates.biz,ClOThIng
+221,KEVIN,unknown,71.0,,,2021-13-40,,ClOThIng
+222,Shannon,Male,76.0,,,2020-09-30,,eLeCtrOnIcs
+223,matthew,unknown,38.0,165.3,195.0,,,Cloth ing
+224,TINA,,42.0,83.91,147.0,2021-13-40,,Electronics
+225,Matthew Fuller,Male,59.0,130.15,,2021-13-40,,CLOTHING
+226,KEITH,MALE,,290.65,189.0,2021-13-40,ariel97@yahoo.com,furniture
+227,Cynthia,MALE,19.0,20.1,,invalid_date,,furniture
+228,,female,57.0,,41.0,2020-04-08,,ClOThIng
+229,ALEXANDER,,,271.72,199.0,invalid_date,yangcrystal@gutierrez-baker.com,ClOThIng
+230,Denise Foster,female,,,181.0,invalid_date,alyssa16@hotmail.com,furniture
+231,jennifer,Female,,,,,,Electronics
+232,,,58.0,,23.0,2002-05-29,lindanorton@gmail.com,CLOTHING
+233,ERIC,female,66.0,55.89,131.0,2004-12-10,mccormickveronica@gmail.com,furnITure
+234,jonathan,female,54.0,,,2021-13-40,,electronics
+235,ZACHARY,unknown,16.0,407.68,32.0,2022-12-16,,Cloth ing
+236,Jennifer,Male,,-10.64,5.0,2024-04-17,hsmith@anthony.org,ClOThIng
+237,,unknown,74.0,95.94,8.0,invalid_date,,CLOTHING
+238,,,16.0,68.27,1.0,invalid_date,,ClOThIng
+239,TRACY,Female,,230.61,159.0,2020-09-08,,furnITure
+240,,Male,20.0,,70.0,2021-13-40,,furnITure
+241,RHONDA,Male,21.0,,21.0,2024-06-18,,CLOTHING
+242,James Miller,,37.0,356.93,87.0,invalid_date,,furnITure
+243,Shawn Floyd Jr.,female,,8.16,-1.0,invalid_date,mariaosborne@yahoo.com,ClOThIng
+244,Alexandra,female,70.0,493.03,,invalid_date,markramos@yahoo.com,electronics
+245,,female,,67.48,14.0,2009-09-03,victorwilson@walker.biz,CLOTHING
+246,Sarah,Female,54.0,,17.0,invalid_date,,clothing
+247,Nancy Scott,unknown,54.0,,,invalid_date,,Cloth ing
+248,DEBRA,MALE,72.0,,,2021-07-08,doylejon@flores.com,electronics
+249,TINA,,34.0,443.75,56.0,2024-09-14,,CLOTHING
+250,Jose Snow,unknown,87.0,20.48,91.0,2010-08-11,karenlopez@perez-sanders.org,electronics
+251,Jason,female,49.0,424.04,,2011-08-24,kevinpotts@yahoo.com,furniture
+252,,unknown,20.0,276.31,,,,furniture
+253,Michelle,unknown,47.0,475.43,168.0,2009-08-07,,Electronics
+254,Anthony,Female,66.0,22.9,92.0,2021-12-10,,CLOTHING
+255,LOGAN,Male,18.0,249.64,62.0,,,Electronics
+256,ZACHARY,unknown,75.0,60.99,67.0,,,electronics
+257,maria,female,,-39.7,,,connie94@cortez.com,ClOThIng
+258,,MALE,51.0,435.39,,2021-13-40,,Cloth ing
+259,,female,52.0,-8.1,90.0,2021-13-40,,eLeCtrOnIcs
+260,Donna,MALE,39.0,275.38,-2.0,,,clothing
+261,Regina Castaneda,,87.0,,26.0,2020-03-15,,Electronics
+262,DAVID,Male,,104.36,1.0,,regina75@acevedo-floyd.org,furniture
+263,DUSTIN,unknown,59.0,,,2020-06-12,,clothing
+264,Brenda,,68.0,-22.65,50.0,2022-06-24,,ClOThIng
+265,Cody,Female,,147.77,,,,clothing
+266,mary,,22.0,129.74,135.0,2023-08-10,,electronics
+267,William Cross,female,20.0,,22.0,invalid_date,,electronics
+268,,MALE,54.0,97.78,80.0,invalid_date,michaelpoole@hotmail.com,CLOTHING
+269,jodi,,,,175.0,2001-01-13,,furnITure
+270,ANGELA,Male,47.0,,68.0,,,furnITure
+271,,female,,,87.0,invalid_date,,clothing
+272,PATRICK,female,26.0,,158.0,2021-13-40,,furniture
+273,,,38.0,82.17,153.0,2024-07-02,brettadams@yahoo.com,furniture
+274,Dr. Robert Dixon V,female,68.0,198.86,,invalid_date,,furnITure
+275,Jamie French,female,57.0,130.1,106.0,,,Cloth ing
+276,Thomas Tran,unknown,84.0,333.06,78.0,invalid_date,,electronics
+277,ryan,unknown,,216.71,146.0,2014-08-17,,Cloth ing
+278,JEREMY,MALE,36.0,45.83,45.0,2017-03-02,,furniture
+279,John Ryan,unknown,,287.9,98.0,2021-13-40,,ClOThIng
+280,Dean,unknown,97.0,111.78,,invalid_date,,eLeCtrOnIcs
+281,Charles,female,56.0,,,2004-04-20,,furniture
+282,MARY,,35.0,123.3,134.0,2021-13-40,,CLOTHING
+283,BRIAN,unknown,,,,2021-13-40,,furniture
+284,blake,,53.0,172.01,-9.0,2015-03-14,,furniture
+285,FREDERICK,,46.0,251.05,102.0,2001-12-30,,electronics
+286,Alicia,MALE,48.0,,,,,ClOThIng
+287,anthony,MALE,40.0,,125.0,invalid_date,,CLOTHING
+288,,female,54.0,,84.0,invalid_date,sorr@hotmail.com,furniture
+289,Shawn Diaz,female,27.0,,,invalid_date,marywilliams@duke.com,Electronics
+290,,MALE,,82.05,44.0,2021-13-40,fbrown@jennings.info,furnITure
+291,susan,female,44.0,35.17,,2024-02-17,,CLOTHING
+292,,MALE,46.0,,,,,eLeCtrOnIcs
+293,Stephanie,female,67.0,174.85,,,joseph33@gmail.com,clothing
+294,robert,female,80.0,95.5,155.0,2021-13-40,carla35@hotmail.com,furniture
+295,Eric Richardson,unknown,,2.84,52.0,invalid_date,,ClOThIng
+296,Kevin Guerrero,unknown,67.0,29.78,,,,furniture
+297,Michael,,49.0,252.66,,2021-13-40,coxdave@weber.com,CLOTHING
+298,LAURA,MALE,44.0,,41.0,2024-01-30,kchandler@yahoo.com,clothing
+299,ROBERT,,36.0,,140.0,2006-03-05,,ClOThIng
+300,,Female,78.0,309.52,51.0,2002-04-02,,furnITure
+301,Dana,Male,75.0,311.32,192.0,2021-13-40,,electronics
+302,RONALD,unknown,47.0,,180.0,2021-13-40,kevin75@gmail.com,furniture
+303,DANIELLE,female,,,40.0,invalid_date,,ClOThIng
+304,CHRISTOPHER,,,,,2021-13-40,,furniture
+305,Susan Holloway,,46.0,,75.0,invalid_date,,clothing
+306,ERIKA,unknown,73.0,367.42,,2007-08-29,,furniture
+307,JACQUELINE,unknown,49.0,227.39,,2012-03-13,,ClOThIng
+308,Daniel Morse,MALE,12.0,442.25,100.0,,,eLeCtrOnIcs
+309,,,23.0,132.54,13.0,invalid_date,,Cloth ing
+310,Jessica Stuart,Male,,-42.41,194.0,invalid_date,,CLOTHING
+311,Nicholas Leonard,,,439.37,41.0,2021-13-40,smithdouglas@rios.biz,electronics
+312,,,,,21.0,invalid_date,,eLeCtrOnIcs
+313,Stacy Newton,unknown,,256.1,,2021-13-40,littlechad@jones.net,Cloth ing
+314,BRANDI,unknown,37.0,85.1,5.0,2024-11-18,smithrebecca@martinez.org,eLeCtrOnIcs
+315,Brett Harris,MALE,,306.48,22.0,2021-13-40,william57@walker.org,ClOThIng
+316,,Male,43.0,42.23,111.0,2025-02-13,,furnITure
+317,dylan,female,58.0,190.14,,2021-07-18,,Electronics
+318,HOLLY,unknown,,278.73,,2021-13-40,qkrause@hotmail.com,furniture
+319,william,unknown,72.0,21.8,159.0,invalid_date,,clothing
+320,Tim,unknown,28.0,,119.0,invalid_date,pkey@yahoo.com,furniture
+321,alexis,MALE,,,,,,Cloth ing
+322,,female,,161.47,189.0,2021-13-40,,electronics
+323,JOSE,MALE,69.0,170.65,68.0,2014-10-10,,CLOTHING
+324,Ryan,,,196.03,154.0,,,eLeCtrOnIcs
+325,keith,MALE,78.0,,,,,Electronics
+326,matthew,Female,24.0,121.67,189.0,2021-13-40,,eLeCtrOnIcs
+327,KIMBERLY,,56.0,122.97,35.0,,,CLOTHING
+328,LEON,MALE,79.0,88.38,3.0,2001-09-17,,CLOTHING
+329,ZACHARY,Female,,,8.0,2009-05-05,james22@ramos-mccarthy.net,CLOTHING
+330,Erin,,77.0,,,,,eLeCtrOnIcs
+331,joshua,unknown,89.0,59.41,,invalid_date,smithnorma@morris-manning.com,CLOTHING
+332,Katie Reynolds,Male,45.0,86.33,,2021-05-11,,furniture
+333,ROBERT,unknown,69.0,,56.0,,porterlindsey@yahoo.com,furniture
+334,ANDREW,,64.0,127.37,,invalid_date,,clothing
+335,kendra,unknown,66.0,112.6,107.0,2016-12-07,,CLOTHING
+336,John,MALE,12.0,169.14,,2024-02-18,,eLeCtrOnIcs
+337,,unknown,,90.52,106.0,2021-13-40,,ClOThIng
+338,,unknown,,384.36,85.0,invalid_date,,furniture
+339,brett,female,53.0,283.54,75.0,2022-05-16,,CLOTHING
+340,Madison,female,,-46.46,,,,eLeCtrOnIcs
+341,sharon,Male,,142.73,154.0,2002-09-07,,electronics
+342,JILL,female,76.0,,197.0,2025-10-08,john63@hotmail.com,ClOThIng
+343,RICHARD,unknown,27.0,435.06,,2021-13-40,,Electronics
+344,Robert,Male,84.0,188.16,,2009-07-08,,furniture
+345,REBECCA,MALE,41.0,126.55,84.0,2024-10-10,,electronics
+346,Ronald Smith,MALE,41.0,,,,,CLOTHING
+347,Victoria Mcgee,,48.0,117.34,,invalid_date,,Cloth ing
+348,Timothy,female,27.0,311.24,,invalid_date,randallangela@yang-hernandez.com,eLeCtrOnIcs
+349,Jeanette,Male,,364.01,101.0,invalid_date,,ClOThIng
+350,,MALE,31.0,194.67,99.0,,,furniture
+351,sharon,MALE,,,,,,eLeCtrOnIcs
+352,SAMUEL,unknown,27.0,293.57,,2025-06-26,,ClOThIng
+353,denise,,,,124.0,invalid_date,,furnITure
+354,Whitney Dominguez,,,-32.16,,2021-03-21,,furnITure
+355,ISAAC,unknown,97.0,11.55,189.0,invalid_date,,furnITure
+356,,female,,367.19,38.0,2024-03-04,,eLeCtrOnIcs
+357,Ashley,Male,39.0,28.51,,2021-13-40,,CLOTHING
+358,ERICA,,,,49.0,invalid_date,,Electronics
+359,Danny Rivera,Male,36.0,51.44,146.0,2021-13-40,,ClOThIng
+360,Alexa,,93.0,429.49,103.0,,tannermarissa@yahoo.com,Cloth ing
+361,AMANDA,MALE,25.0,270.92,100.0,2009-09-05,,Electronics
+362,patrick,,72.0,,,2009-11-07,,Cloth ing
+363,Tammy Porter,unknown,19.0,148.42,-5.0,2022-02-18,,furnITure
+364,Jaime Barry,Female,52.0,,182.0,2021-13-40,jasonpoole@campbell-bender.com,eLeCtrOnIcs
+365,TIMOTHY,unknown,,115.61,-9.0,2022-11-04,,clothing
+366,matthew,,,126.17,52.0,,darryl85@miller-gomez.com,furnITure
+367,SYLVIA,MALE,26.0,69.74,,,,eLeCtrOnIcs
+368,PHILLIP,unknown,76.0,,,2020-11-27,,furniture
+369,Tammy,Male,52.0,,176.0,2009-06-20,kristen22@trujillo.com,furniture
+370,PHILLIP,Female,99.0,,,invalid_date,,furniture
+371,kenneth,female,,,106.0,2021-13-40,,Cloth ing
+372,Bruce,unknown,51.0,123.37,197.0,2025-09-01,,Cloth ing
+373,,unknown,16.0,,40.0,2021-13-40,,furnITure
+374,joseph,female,21.0,467.98,,,,clothing
+375,debra,unknown,65.0,,162.0,,,CLOTHING
+376,ANN,unknown,55.0,-25.5,62.0,,randylopez@hotmail.com,electronics
+377,,MALE,65.0,129.16,,2024-05-10,,furnITure
+378,Shelby Howe,MALE,59.0,7.92,,2004-02-16,,CLOTHING
+379,,,,49.3,61.0,2013-08-07,,eLeCtrOnIcs
+380,Rebecca,Male,37.0,,5.0,,,Cloth ing
+381,David,,,,,invalid_date,,clothing
+382,Caitlin Blake,Male,27.0,,124.0,,,furnITure
+383,JESSICA,female,61.0,103.87,,2021-13-40,knappkathleen@hampton.info,ClOThIng
+384,,Male,25.0,1.03,,,,Cloth ing
+385,Paul Rojas,female,53.0,-43.67,182.0,2011-03-09,,eLeCtrOnIcs
+386,GARY,MALE,83.0,145.51,117.0,,,clothing
+387,,Male,35.0,,160.0,,,furnITure
+388,,female,29.0,,30.0,invalid_date,,clothing
+389,Michelle Rodriguez,female,67.0,234.98,59.0,2022-05-07,susan06@hotmail.com,eLeCtrOnIcs
+390,william,,47.0,148.31,,invalid_date,,furnITure
+391,Joshua Molina,,,42.17,,2015-06-06,,ClOThIng
+392,jennifer,female,,,60.0,invalid_date,william19@freeman.com,eLeCtrOnIcs
+393,Fernando,MALE,77.0,-46.86,155.0,2021-13-40,,Electronics
+394,,female,,454.86,70.0,2003-02-02,vjohnson@hotmail.com,electronics
+395,andrew,unknown,,72.08,,,,CLOTHING
+396,Dr. Hector Vaughn,Male,,140.39,156.0,2024-06-17,,furniture
+397,jason,MALE,34.0,-1.83,37.0,invalid_date,,electronics
+398,,Male,35.0,85.84,22.0,2020-08-23,zwhite@summers.biz,clothing
+399,Kathryn,unknown,27.0,50.98,53.0,,christina62@gmail.com,CLOTHING
+400,KYLE,,18.0,3.2,181.0,invalid_date,,ClOThIng
+401,,unknown,53.0,,74.0,invalid_date,,Cloth ing
+402,,Male,54.0,142.23,,invalid_date,,eLeCtrOnIcs
+403,travis,Female,,115.46,86.0,2021-13-40,shannongarcia@hotmail.com,furniture
+404,evan,Male,54.0,372.13,,invalid_date,,eLeCtrOnIcs
+405,Philip,unknown,66.0,-18.22,54.0,2021-13-40,,Electronics
+406,John,unknown,,100.28,75.0,invalid_date,,furniture
+407,PATRICK,unknown,,,,2012-11-04,,ClOThIng
+408,ABIGAIL,female,,180.62,140.0,2021-13-40,,Electronics
+409,Rachel,,63.0,276.01,10.0,,,clothing
+410,Catherine,MALE,,9.99,116.0,2020-08-13,petervargas@gmail.com,electronics
+411,Kelli Ruiz,female,80.0,,,2020-07-10,,eLeCtrOnIcs
+412,JOHNNY,unknown,19.0,120.29,62.0,invalid_date,,furnITure
+413,NEIL,MALE,,,20.0,2021-13-40,,CLOTHING
+414,Michael,female,79.0,121.28,,2021-13-40,,eLeCtrOnIcs
+415,Rachel,unknown,46.0,,,invalid_date,,electronics
+416,jessica,,,47.83,47.0,2023-01-05,vickie23@hotmail.com,CLOTHING
+417,,female,68.0,,,invalid_date,,Cloth ing
+418,Jared,female,,,,2023-05-27,mthomas@navarro.com,CLOTHING
+419,Justin,MALE,28.0,25.54,76.0,2023-07-30,bparker@yahoo.com,CLOTHING
+420,BRENT,,67.0,,101.0,invalid_date,tabitha83@cole-perez.com,CLOTHING
+421,,female,62.0,,48.0,invalid_date,,furnITure
+422,Kristen Jackson,MALE,,,111.0,invalid_date,,Electronics
+423,JEREMIAH,Female,37.0,160.68,60.0,2021-13-40,,eLeCtrOnIcs
+424,Amanda Ortiz,female,,,133.0,,awalker@tucker.org,CLOTHING
+425,KAREN,,,,29.0,2007-07-30,,furniture
+426,Amanda Johnson,MALE,63.0,,,,,Cloth ing
+427,,MALE,57.0,-15.86,7.0,2024-04-11,,furnITure
+428,nicole,female,38.0,,195.0,2021-13-40,,CLOTHING
+429,,,53.0,,132.0,2021-13-40,frances91@hotmail.com,eLeCtrOnIcs
+430,JAMES,unknown,71.0,,56.0,,,furniture
+431,Edward Thomas,,35.0,15.68,,invalid_date,,Cloth ing
+432,george,Male,35.0,303.67,126.0,invalid_date,bendereric@hotmail.com,Electronics
+433,kevin,MALE,92.0,,120.0,2022-04-26,,Cloth ing
+434,Jamie Dougherty,,17.0,,141.0,invalid_date,,furnITure
+435,Beverly Webb,MALE,,52.21,,2021-13-40,,clothing
+436,,,,135.64,57.0,invalid_date,sparkschristina@decker.com,clothing
+437,,female,42.0,110.25,35.0,2021-13-40,,Cloth ing
+438,angela,unknown,47.0,78.84,149.0,2021-13-40,,CLOTHING
+439,michelle,Male,,126.01,,2021-13-40,,Cloth ing
+440,LUIS,female,65.0,,106.0,invalid_date,,furniture
+441,mike,Male,72.0,,25.0,invalid_date,kyle08@hotmail.com,clothing
+442,JONATHAN,unknown,,321.75,174.0,,,clothing
+443,Robin,MALE,51.0,105.88,19.0,2021-13-40,stephaniewalsh@chan.com,furniture
+444,Laura,,51.0,-22.18,,invalid_date,,clothing
+445,Jessica,unknown,34.0,410.79,86.0,invalid_date,frank27@medina.info,eLeCtrOnIcs
+446,andrew,,,195.81,,2021-13-40,,Cloth ing
+447,anthony,Female,,-47.65,111.0,2021-13-40,byrdjared@parker.biz,furniture
+448,COREY,,80.0,266.21,120.0,2021-13-40,,electronics
+449,Mark,,27.0,84.59,,2025-09-28,jonathan79@yahoo.com,furnITure
+450,Breanna Blair,unknown,76.0,,156.0,2024-03-31,,electronics
+451,Jordan Perkins,unknown,,186.97,184.0,,,furnITure
+452,Gary,female,,297.7,,2000-04-11,,CLOTHING
+453,AMY,Male,69.0,473.4,136.0,invalid_date,,eLeCtrOnIcs
+454,brian,unknown,43.0,85.82,,,,ClOThIng
+455,Alexa Johnson,Female,78.0,,35.0,invalid_date,,electronics
+456,Robert,,,,198.0,2001-03-04,,eLeCtrOnIcs
+457,,,,495.18,145.0,2021-13-40,,furnITure
+458,THOMAS,female,,,,2025-08-30,,Cloth ing
+459,Jacqueline Mccormick,female,,216.42,,2020-08-20,christineclark@hotmail.com,electronics
+460,,MALE,91.0,302.05,4.0,,susan08@hotmail.com,furnITure
+461,Daniel Mclaughlin,MALE,26.0,111.1,,2021-13-40,stephanieford@gmail.com,furniture
+462,,MALE,,,158.0,2024-06-10,cathy89@goodman.net,clothing
+463,,Male,28.0,371.05,,2005-11-11,ashley04@valdez.info,electronics
+464,Scott Cain,,55.0,462.41,184.0,invalid_date,,ClOThIng
+465,JESSICA,,84.0,,173.0,2024-10-15,,eLeCtrOnIcs
+466,,MALE,61.0,36.18,156.0,2005-01-17,clarkraymond@mccarthy-sweeney.com,clothing
+467,,unknown,89.0,-42.98,129.0,,watsonjerry@burgess-rios.com,eLeCtrOnIcs
+468,Charles,Male,,471.31,16.0,2025-06-19,mchristensen@jones.com,electronics
+469,,unknown,77.0,175.15,187.0,2009-08-10,,furnITure
+470,Lauren Mann,,63.0,153.9,,invalid_date,wagnerdarlene@yahoo.com,Cloth ing
+471,Sarah Weber,,93.0,93.47,,2024-02-28,taylorbethany@yahoo.com,CLOTHING
+472,,unknown,,,,2021-13-40,,Electronics
+473,stephanie,unknown,19.0,,99.0,2017-05-15,iwalters@becker.com,ClOThIng
+474,,,52.0,114.54,,2015-01-10,,furnITure
+475,Andrew Rodgers,female,45.0,,108.0,2010-04-19,,furnITure
+476,Brian,MALE,,,21.0,2021-13-40,,clothing
+477,,,,,,2023-08-25,markssherri@gmail.com,clothing
+478,MARIO,Male,,282.41,,2021-13-40,,ClOThIng
+479,Justin,,,4.97,,2018-07-23,,furniture
+480,Amy Velasquez,female,16.0,,,invalid_date,,clothing
+481,Jacob,female,27.0,265.08,149.0,2021-13-40,,ClOThIng
+482,Sandra Horton,unknown,45.0,51.3,,invalid_date,,furnITure
+483,Susan Davis,Male,33.0,106.57,,,,ClOThIng
+484,,unknown,62.0,-9.68,,,cartercharlene@stokes-lawson.com,furnITure
+485,joy,MALE,87.0,169.51,23.0,,,Electronics
+486,Tiffany,Male,35.0,79.82,34.0,2021-13-40,,Cloth ing
+487,carrie,female,,146.01,67.0,2025-07-23,jmurillo@yahoo.com,electronics
+488,Kimberly,,40.0,24.76,70.0,2024-04-03,courtneypalmer@frye.com,furniture
+489,lisa,Male,34.0,339.51,181.0,invalid_date,allisonrobinson@sanchez.com,clothing
+490,BRITTANY,Male,,192.8,114.0,invalid_date,,clothing
+491,,unknown,,,,,,ClOThIng
+492,michael,,,150.79,178.0,2021-03-03,,eLeCtrOnIcs
+493,,,43.0,,,,,eLeCtrOnIcs
+494,JUAN,female,,146.81,88.0,invalid_date,,ClOThIng
+495,,,,,94.0,2007-05-26,lhenderson@yahoo.com,clothing
+496,,,,,51.0,2012-06-07,,Electronics
+497,anthony,MALE,10.0,334.72,123.0,2021-13-40,,CLOTHING
+498,Brianna,female,37.0,,182.0,2021-13-40,,furniture
+499,KIMBERLY,MALE,13.0,,,2021-05-11,,furniture
+500,Lauren,female,,48.54,177.0,invalid_date,,Electronics
+501,stephanie,,64.0,,,2025-05-25,,Cloth ing
+502,WILLIAM,Female,27.0,,,2024-09-04,mary53@washington.info,furnITure
+503,EDWARD,unknown,86.0,463.86,113.0,2008-05-01,,furniture
+504,Debbie Macdonald,Female,,391.53,,invalid_date,,clothing
+505,Rodney Carter,unknown,78.0,63.54,,2021-13-40,,furniture
+506,Amy,Female,71.0,197.67,65.0,invalid_date,,Cloth ing
+507,ANDREW,Female,49.0,,,,christinapowell@hernandez-walker.com,clothing
+508,,MALE,,114.98,48.0,2021-13-40,,Cloth ing
+509,caitlin,female,46.0,,133.0,invalid_date,,electronics
+510,,female,91.0,491.44,34.0,2022-03-04,marquezmelissa@gmail.com,furnITure
+511,,MALE,59.0,498.51,140.0,,,ClOThIng
+512,Derek,MALE,42.0,5.56,,,,clothing
+513,,female,42.0,63.77,48.0,2021-13-40,,clothing
+514,BRIAN,unknown,13.0,,121.0,invalid_date,seanwright@zamora-deleon.info,ClOThIng
+515,steven,unknown,,,103.0,2021-13-40,frank62@wagner-simmons.com,ClOThIng
+516,Jeffery Campbell,unknown,,300.93,,2018-11-25,williamvillegas@ray-tucker.net,Cloth ing
+517,Kayla,unknown,67.0,,155.0,invalid_date,mcculloughjames@schultz.com,furnITure
+518,,,,,103.0,2024-08-19,,Cloth ing
+519,,female,,,11.0,2021-13-40,,electronics
+520,Alicia Johnson,,51.0,173.36,6.0,2021-13-40,,clothing
+521,,,50.0,74.34,,2024-08-03,,electronics
+522,Laura,unknown,79.0,,86.0,invalid_date,,Cloth ing
+523,,female,54.0,323.97,,,,Electronics
+524,KYLE,,47.0,,59.0,2021-13-40,lyonsbrad@graham.com,ClOThIng
+525,MARK,MALE,51.0,277.86,,invalid_date,,Cloth ing
+526,MARY,MALE,100.0,-42.42,,,,electronics
+527,Jay,MALE,,195.81,,2022-09-20,vbrown@baker-ruiz.info,clothing
+528,Olivia Espinoza,unknown,19.0,139.07,109.0,2021-13-40,jrussell@schmidt-riggs.biz,Electronics
+529,Zachary Barnett,female,33.0,,101.0,invalid_date,fryeamy@yahoo.com,electronics
+530,Carrie Lee,MALE,32.0,340.93,180.0,invalid_date,,clothing
+531,Joyce,unknown,49.0,454.41,145.0,,patrick43@simmons-santiago.com,clothing
+532,Frank White,female,48.0,,22.0,2021-13-40,,CLOTHING
+533,Kyle Pittman,,,275.07,32.0,invalid_date,ian17@phillips.com,ClOThIng
+534,JOSEPH,Male,63.0,42.34,169.0,,,electronics
+535,,female,,-5.91,,2021-13-40,,Cloth ing
+536,TIMOTHY,Male,72.0,124.81,19.0,2021-11-14,,Electronics
+537,,female,18.0,212.17,54.0,2023-11-19,,eLeCtrOnIcs
+538,joshua,female,67.0,,4.0,2021-13-40,matthewbarrera@kane.info,CLOTHING
+539,,MALE,,181.77,,,nwilliams@yahoo.com,ClOThIng
+540,stanley,Female,,131.34,58.0,,,furnITure
+541,Monica,unknown,43.0,137.91,30.0,2025-10-16,,eLeCtrOnIcs
+542,joel,unknown,46.0,245.93,198.0,2005-09-01,,Electronics
+543,MELISSA,Male,21.0,156.6,,2021-13-40,,Electronics
+544,Ashley,Male,93.0,485.01,,2021-09-18,,Electronics
+545,Emily Jackson,female,36.0,427.75,112.0,2024-02-19,,clothing
+546,jennifer,unknown,41.0,85.63,,,,Cloth ing
+547,Amanda Suarez,,,,175.0,,,Electronics
+548,JOSEPH,Female,,,61.0,2017-08-02,,eLeCtrOnIcs
+549,BRIANNA,female,,206.76,132.0,invalid_date,jacksondavid@bishop.com,electronics
+550,,MALE,79.0,72.37,185.0,,wrogers@bowen.com,electronics
+551,leslie,female,,167.11,193.0,2012-09-20,,Electronics
+552,JOHN,Male,,,,invalid_date,taylorkelly@gmail.com,furniture
+553,,unknown,,,,invalid_date,abigail68@hammond.info,furniture
+554,CHELSEA,,75.0,,3.0,2008-11-01,,furniture
+555,,female,50.0,47.32,,2021-13-40,,Electronics
+556,Tiffany,female,98.0,459.03,4.0,,,furniture
+557,Haley Barron,Male,,,,2021-13-40,,furnITure
+558,david,female,54.0,,,2024-01-19,,Electronics
+559,Mary,Male,16.0,,,2020-06-08,,CLOTHING
+560,TONY,unknown,73.0,,138.0,2021-13-40,lori64@gmail.com,furnITure
+561,,Male,,164.17,174.0,2021-13-40,,electronics
+562,,,25.0,28.4,148.0,,,electronics
+563,Stacey Miranda,Male,,,,,amoore@yahoo.com,CLOTHING
+564,VERONICA,MALE,,,,2021-13-40,youngmatthew@burgess.info,Cloth ing
+565,,MALE,48.0,,,2021-13-40,,furnITure
+566,,,43.0,,88.0,2019-01-30,,Cloth ing
+567,JONATHAN,,,18.4,48.0,invalid_date,,clothing
+568,Teresa,unknown,77.0,17.99,2.0,,,Electronics
+569,Patrick,unknown,66.0,,,2023-10-09,,CLOTHING
+570,,female,,345.22,,2021-13-40,sheila59@gmail.com,Electronics
+571,Renee Smith,Male,33.0,191.01,195.0,2021-13-40,,electronics
+572,Diane,Male,89.0,492.59,,2006-07-12,,CLOTHING
+573,,,93.0,123.24,127.0,2023-03-20,,CLOTHING
+574,Charles,female,,,82.0,2021-13-40,sarah20@hotmail.com,ClOThIng
+575,JENNIFER,Female,27.0,-45.15,141.0,,,electronics
+576,Jenny Mora,,60.0,,,2018-10-27,,Electronics
+577,Stephen Wilson,Female,21.0,,30.0,2021-13-40,,Cloth ing
+578,,MALE,52.0,,187.0,2023-11-06,,clothing
+579,Aaron Pierce,unknown,36.0,216.75,88.0,2021-13-40,,Cloth ing
+580,casey,unknown,38.0,,9.0,,,furnITure
+581,Robert,female,96.0,133.82,-9.0,,,Cloth ing
+582,GREGORY,female,62.0,417.57,36.0,2021-13-40,rossbrittany@wyatt.com,eLeCtrOnIcs
+583,erin,female,69.0,,21.0,2021-13-40,nathanclark@soto.com,furnITure
+584,,unknown,68.0,,195.0,2025-03-06,davidshepherd@gmail.com,Cloth ing
+585,Michael,Male,63.0,283.58,138.0,,nbutler@yahoo.com,ClOThIng
+586,Kristina,MALE,53.0,,10.0,invalid_date,,eLeCtrOnIcs
+587,kelly,Male,45.0,,,2021-13-40,ronald11@yahoo.com,Cloth ing
+588,,MALE,,11.78,70.0,2005-07-18,alyssabell@yahoo.com,furniture
+589,Amanda,MALE,,196.34,,,daughertyjamie@yahoo.com,furniture
+590,,female,,,176.0,2020-09-17,julie55@hotmail.com,CLOTHING
+591,Kimberly Graham,Female,51.0,,163.0,2021-13-40,,furniture
+592,Micheal Shelton,,29.0,,144.0,invalid_date,,clothing
+593,Janet,Female,26.0,,184.0,2021-13-40,,eLeCtrOnIcs
+594,Amy Howell,Female,,480.53,173.0,2021-13-40,grivas@hotmail.com,Cloth ing
+595,Erin,,,,,invalid_date,hollyhansen@gmail.com,eLeCtrOnIcs
+596,Melissa,Female,32.0,212.27,119.0,invalid_date,,CLOTHING
+597,Shawna,,81.0,,,2021-13-40,,clothing
+598,KIMBERLY,MALE,,450.96,-10.0,2022-04-01,,furnITure
+599,gina,,,,142.0,2022-02-06,xhayes@hotmail.com,furnITure
+600,KIRK,Female,,81.79,65.0,2021-13-40,,CLOTHING
+601,Linda Lee,female,66.0,186.09,128.0,2022-05-28,,Electronics
+602,,MALE,47.0,115.77,91.0,2021-13-40,,furnITure
+603,jennifer,female,68.0,,,2021-13-40,,Cloth ing
+604,,Male,,118.36,-1.0,invalid_date,,clothing
+605,meagan,,17.0,,,,,furniture
+606,Marcus,,64.0,114.87,198.0,2018-02-16,anthonybradley@hotmail.com,eLeCtrOnIcs
+607,JENNIFER,Female,,,117.0,,wsmith@lynch.com,furniture
+608,,Male,57.0,100.53,153.0,2001-06-05,,electronics
+609,victoria,MALE,10.0,,51.0,2024-04-02,alicia48@cooper-morris.biz,furniture
+610,,female,47.0,,125.0,,jacob88@yahoo.com,clothing
+611,,MALE,18.0,,,invalid_date,carolyn30@galvan.com,Cloth ing
+612,Spencer Sanders,unknown,45.0,395.57,185.0,invalid_date,williamsryan@gmail.com,ClOThIng
+613,,MALE,,,,invalid_date,,Electronics
+614,JACQUELINE,Female,31.0,364.38,67.0,2021-07-16,iwarner@jones-clark.biz,electronics
+615,Stacy,female,,,,2021-13-40,destiny68@jenkins.net,furnITure
+616,nathan,unknown,71.0,,,,,furniture
+617,Katie Simmons,unknown,,-19.44,183.0,2021-13-40,,Cloth ing
+618,TARA,,25.0,,122.0,2021-13-40,,clothing
+619,,Female,,-45.86,53.0,2021-13-40,,electronics
+620,linda,Female,74.0,,108.0,2023-02-23,,furnITure
+621,charles,,,109.94,108.0,invalid_date,mary43@hotmail.com,furnITure
+622,Robert,unknown,73.0,,82.0,2021-13-40,,clothing
+623,,Male,79.0,4.6,160.0,2017-01-22,,electronics
+624,,unknown,,,,,seanchapman@gmail.com,ClOThIng
+625,JENNIFER,unknown,,147.01,,2013-10-19,,electronics
+626,robert,,,,,2007-08-14,,electronics
+627,Veronica,unknown,19.0,497.64,,2024-05-21,,furnITure
+628,Eddie,MALE,23.0,292.01,45.0,2009-11-16,bryce93@larson.com,electronics
+629,Peter,Male,,,60.0,2022-12-14,brooke13@gmail.com,Cloth ing
+630,,,48.0,,,,,eLeCtrOnIcs
+631,jennifer,MALE,,,,2023-03-04,,ClOThIng
+632,christopher,,94.0,384.0,,2014-08-21,rowlandmatthew@wilcox-baird.info,Cloth ing
+633,NATHAN,Female,31.0,0.78,,2020-12-26,,CLOTHING
+634,gail,Male,55.0,,,,,Cloth ing
+635,anthony,female,,101.62,92.0,,,electronics
+636,CHRISTINA,female,66.0,,79.0,2007-05-24,,furnITure
+637,Mrs. Stacy Fields,,,,,2022-09-15,christian12@pena-stanton.com,electronics
+638,Jennifer Jefferson,unknown,26.0,381.86,126.0,2025-06-18,brandi94@hotmail.com,eLeCtrOnIcs
+639,,,26.0,479.73,4.0,invalid_date,,furniture
+640,,female,72.0,458.4,127.0,invalid_date,,furnITure
+641,alicia,MALE,,494.16,113.0,,xpetty@sanchez-knight.com,furnITure
+642,JOHN,unknown,32.0,198.03,,2021-13-40,czuniga@sellers.info,clothing
+643,Yolanda,female,40.0,-20.67,158.0,2021-13-40,,ClOThIng
+644,erik,unknown,,,,2022-04-07,dblackburn@grimes.com,electronics
+645,CLAIRE,unknown,,82.7,,invalid_date,,furniture
+646,tammy,Male,21.0,391.85,-5.0,2003-10-27,,CLOTHING
+647,Austin,female,37.0,,124.0,2003-07-11,,CLOTHING
+648,Cory,Female,,34.58,164.0,2021-11-13,prosario@parker-lopez.info,Electronics
+649,Steven Herrera,unknown,28.0,,,,,furnITure
+650,daniel,Female,,26.8,,,,Cloth ing
+651,NATHANIEL,,59.0,58.86,12.0,2022-09-13,ojohnson@hotmail.com,electronics
+652,DONALD,MALE,,,,2022-12-04,melissa67@bishop.net,Cloth ing
+653,Ryan,Male,27.0,,,invalid_date,francorandall@houston.com,clothing
+654,Larry,unknown,46.0,131.16,,2021-13-40,kathylopez@yahoo.com,Electronics
+655,Patricia Thomas,Female,46.0,,155.0,2020-06-04,kevinstevens@yahoo.com,CLOTHING
+656,eric,,46.0,,,2021-13-40,,furniture
+657,Kelsey,,58.0,185.33,189.0,,,ClOThIng
+658,kathleen,unknown,67.0,,161.0,invalid_date,,furniture
+659,,unknown,80.0,58.13,139.0,invalid_date,,eLeCtrOnIcs
+660,CARLA,unknown,73.0,-31.28,,,,ClOThIng
+661,,MALE,,78.3,61.0,2024-08-25,weavernicole@hotmail.com,ClOThIng
+662,kelly,MALE,24.0,122.51,91.0,invalid_date,todd33@powell-evans.com,ClOThIng
+663,cynthia,unknown,61.0,,98.0,invalid_date,,eLeCtrOnIcs
+664,Melissa,female,36.0,252.58,,invalid_date,tiffany31@kemp.biz,CLOTHING
+665,Michael Robertson,MALE,54.0,55.82,40.0,,,CLOTHING
+666,jack,Female,,,140.0,,thompsonelaine@gmail.com,CLOTHING
+667,Jacob Walters,unknown,20.0,-31.25,70.0,invalid_date,,Cloth ing
+668,Kaitlin,,,,97.0,2021-13-40,,ClOThIng
+669,Dylan Castro,female,48.0,306.96,50.0,,,furniture
+670,DONNA,,,129.08,145.0,2008-01-15,jeremiahherring@hotmail.com,ClOThIng
+671,Rebecca,female,14.0,,,2021-13-40,,ClOThIng
+672,christopher,unknown,87.0,24.36,112.0,2020-12-19,nicholasrichmond@yahoo.com,furnITure
+673,ELIZABETH,,,,181.0,,jennifer98@hotmail.com,Cloth ing
+674,,MALE,,,192.0,2013-09-10,,eLeCtrOnIcs
+675,Ariana Porter,female,43.0,187.09,,,stacey06@yahoo.com,furnITure
+676,gregory,,,4.34,44.0,invalid_date,,furniture
+677,Amanda Mccullough,,,80.19,178.0,2001-11-30,,CLOTHING
+678,justin,female,46.0,35.95,162.0,2011-03-23,gentrymichael@owens.biz,Electronics
+679,Tracey,,,150.81,26.0,2021-13-40,,furnITure
+680,Noah Mitchell,female,,,66.0,2021-13-40,joseph09@miller.com,electronics
+681,Scott,Female,43.0,179.59,,2021-13-40,,eLeCtrOnIcs
+682,,,,,56.0,,,clothing
+683,Michael Solomon,,,,122.0,2012-06-28,,CLOTHING
+684,Victoria Carr,female,47.0,478.25,,2022-03-11,,clothing
+685,KAREN,unknown,,464.3,36.0,2015-04-09,,clothing
+686,NANCY,female,,295.01,,invalid_date,hannah78@yahoo.com,electronics
+687,,MALE,74.0,,,2019-09-18,,furniture
+688,,unknown,80.0,115.45,,2010-01-24,,electronics
+689,Kenneth,Female,,123.92,,,,furnITure
+690,Sandra Sims,unknown,,163.1,104.0,invalid_date,,eLeCtrOnIcs
+691,edward,MALE,36.0,,45.0,2020-08-21,,eLeCtrOnIcs
+692,Brooke Fields,unknown,,,,2008-09-28,,electronics
+693,ANTHONY,,79.0,75.47,,invalid_date,,eLeCtrOnIcs
+694,stephanie,female,64.0,,169.0,2021-13-40,,furnITure
+695,kevin,,62.0,-20.18,123.0,2023-08-28,,clothing
+696,william,MALE,,-13.94,13.0,2008-03-13,,furnITure
+697,Mark,Male,26.0,375.69,,2022-09-13,mosesvanessa@hotmail.com,CLOTHING
+698,Mark Brooks MD,,64.0,,158.0,invalid_date,,eLeCtrOnIcs
+699,Nicole Murray,unknown,48.0,,,2022-05-28,rtodd@yahoo.com,Cloth ing
+700,JASON,female,69.0,6.7,93.0,2006-08-07,,ClOThIng
+701,William Jones,unknown,,,24.0,,,Cloth ing
+702,BRENDA,female,97.0,26.05,109.0,2021-13-40,grahamjeffrey@rose.org,ClOThIng
+703,,,50.0,-43.85,24.0,,,ClOThIng
+704,Arthur Macias,female,,160.36,,,,eLeCtrOnIcs
+705,Maurice,Male,,,16.0,,,clothing
+706,JOSEPH,female,,,123.0,,lucasalexis@gonzalez.com,eLeCtrOnIcs
+707,MICHELLE,,74.0,,130.0,,scottcooper@cole.com,Electronics
+708,Brenda,,,30.99,186.0,2019-05-12,stephaniekelly@obrien.info,furniture
+709,,female,24.0,101.54,96.0,2025-04-07,,Electronics
+710,Jennifer Sanchez,Female,48.0,100.94,199.0,,,electronics
+711,luis,Female,,79.59,120.0,2004-05-10,,CLOTHING
+712,michael,female,60.0,81.94,,invalid_date,,furniture
+713,evan,Male,21.0,,85.0,2023-11-12,,eLeCtrOnIcs
+714,Paul,female,77.0,48.24,6.0,invalid_date,dturner@hotmail.com,furnITure
+715,James Jones,female,79.0,140.27,,invalid_date,,CLOTHING
+716,Derek,,,80.51,,invalid_date,,furniture
+717,dustin,Male,22.0,-38.21,61.0,2023-08-06,,ClOThIng
+718,,female,73.0,,,,tyler10@orozco-taylor.com,clothing
+719,,,,227.99,68.0,2015-12-29,,CLOTHING
+720,Monica,,41.0,,77.0,,,CLOTHING
+721,Deanna,female,,,124.0,,victoriataylor@jones.org,eLeCtrOnIcs
+722,Derek,,33.0,275.4,3.0,invalid_date,joel22@hernandez-black.biz,furnITure
+723,kyle,female,,45.12,60.0,,carol25@hotmail.com,eLeCtrOnIcs
+724,Matthew Brown,Female,,130.25,151.0,2021-06-21,,CLOTHING
+725,Kenneth Dawson,female,76.0,,98.0,2021-11-28,,furnITure
+726,christina,MALE,,,194.0,,eatonbrian@moss.com,furnITure
+727,Megan Fletcher,unknown,80.0,57.92,105.0,2007-01-17,,eLeCtrOnIcs
+728,Christian Keller,Male,32.0,27.38,,2001-06-07,,furnITure
+729,JOSEPH,,74.0,107.37,49.0,2021-13-40,,furniture
+730,Emily,female,32.0,35.78,90.0,2021-13-40,,Electronics
+731,Margaret King,,64.0,140.36,10.0,2023-11-12,karl85@hotmail.com,CLOTHING
+732,Yvonne Malone,Female,99.0,-3.39,,2024-05-03,,clothing
+733,,female,,417.61,82.0,2021-13-40,,furnITure
+734,Amber,,27.0,360.66,6.0,2021-13-40,,furniture
+735,,unknown,81.0,10.03,85.0,,,furnITure
+736,,unknown,57.0,446.37,157.0,,,ClOThIng
+737,Mrs. Sierra Mckinney,female,,54.03,,2021-13-40,,Electronics
+738,Daniel,,94.0,194.77,,,johnsonrobert@yahoo.com,ClOThIng
+739,,Female,,18.82,40.0,,,eLeCtrOnIcs
+740,ANNE,unknown,,-20.31,200.0,2021-13-40,atkinsonvalerie@yahoo.com,clothing
+741,robert,female,,-9.53,33.0,2017-07-28,,ClOThIng
+742,,MALE,,92.95,10.0,invalid_date,james89@higgins-wilson.com,ClOThIng
+743,DAVID,,,,,2020-09-27,,ClOThIng
+744,Lindsey Jackson,unknown,80.0,481.48,85.0,2021-13-40,,clothing
+745,Shari Tucker,unknown,,481.4,63.0,invalid_date,,electronics
+746,,unknown,64.0,-6.75,140.0,2014-05-04,,eLeCtrOnIcs
+747,,,22.0,112.21,5.0,invalid_date,,clothing
+748,JACOB,Female,64.0,171.71,,2021-13-40,,electronics
+749,John,female,35.0,101.08,46.0,2020-10-08,,ClOThIng
+750,charles,unknown,28.0,,,invalid_date,,Electronics
+751,Michael Nguyen,MALE,56.0,206.4,126.0,,matthew98@parks.net,eLeCtrOnIcs
+752,,,68.0,72.05,81.0,,qfigueroa@fisher-santos.com,eLeCtrOnIcs
+753,,MALE,39.0,,15.0,2021-13-40,,Cloth ing
+754,Tara Montgomery,MALE,,,,2022-10-17,paulspears@yahoo.com,CLOTHING
+755,DUSTIN,unknown,,229.8,,2010-11-26,,electronics
+756,,,71.0,,,invalid_date,,Electronics
+757,Jonathan Walker,,23.0,,-3.0,invalid_date,,Cloth ing
+758,,,64.0,,43.0,invalid_date,jenna39@hardy-mathis.biz,Cloth ing
+759,JACOB,MALE,,53.33,,2021-13-40,whiteaaron@yahoo.com,clothing
+760,jessica,MALE,35.0,310.87,,2006-01-16,jaimebarnes@yahoo.com,eLeCtrOnIcs
+761,ricky,female,38.0,,62.0,2021-13-40,brittanyclark@johnson.com,electronics
+762,KELLY,,35.0,,13.0,2021-13-40,daniel38@garcia.com,ClOThIng
+763,John,,30.0,,151.0,2021-13-40,melendezjames@hotmail.com,furniture
+764,David,,,201.44,93.0,invalid_date,,Electronics
+765,jose,female,,,133.0,2021-13-40,,eLeCtrOnIcs
+766,Lorraine,female,67.0,486.73,,2025-02-16,,furniture
+767,,female,76.0,127.74,196.0,,nbradley@yahoo.com,furniture
+768,,,19.0,,46.0,2008-07-20,,furnITure
+769,shelly,female,24.0,-8.27,196.0,2019-09-14,,clothing
+770,,unknown,32.0,87.01,106.0,invalid_date,,clothing
+771,Kevin,,73.0,424.35,12.0,2022-04-12,,Electronics
+772,RYAN,female,97.0,63.97,46.0,2021-01-31,millerstephen@martinez-lee.net,Electronics
+773,bryce,female,22.0,405.41,35.0,,,furnITure
+774,DEVIN,MALE,95.0,,185.0,2015-02-11,xgarcia@rosales-clark.com,eLeCtrOnIcs
+775,amanda,Female,,71.1,54.0,invalid_date,,Electronics
+776,,MALE,16.0,180.41,87.0,2025-04-26,carrollgina@gmail.com,eLeCtrOnIcs
+777,Kelly Green,Female,,,44.0,invalid_date,,ClOThIng
+778,,female,74.0,215.82,,2002-05-05,atapia@burns.biz,Electronics
+779,Melissa,unknown,66.0,82.87,157.0,2019-11-10,john16@yahoo.com,eLeCtrOnIcs
+780,Deborah,,,2.29,2.0,invalid_date,,furnITure
+781,BILLY,Male,43.0,195.47,40.0,,,ClOThIng
+782,LINDSAY,Female,37.0,455.38,52.0,2021-01-26,,Cloth ing
+783,,,44.0,125.38,69.0,invalid_date,,furniture
+784,THOMAS,Male,29.0,-36.27,,,andrea35@hotmail.com,ClOThIng
+785,ZACHARY,,77.0,133.96,146.0,invalid_date,veronica44@thomas.biz,furnITure
+786,,female,29.0,30.93,32.0,,,electronics
+787,Victoria,unknown,50.0,148.79,-8.0,,,furnITure
+788,steven,,41.0,88.3,167.0,2024-03-06,,CLOTHING
+789,roger,unknown,69.0,259.61,42.0,,,ClOThIng
+790,Jared Chavez,MALE,52.0,10.84,,2021-13-40,,CLOTHING
+791,max,MALE,68.0,187.22,175.0,2002-06-29,,electronics
+792,nathan,female,,38.09,126.0,invalid_date,justinhayes@yahoo.com,furnITure
+793,Stacy,female,,,183.0,2021-04-19,,electronics
+794,Cassidy Stewart,unknown,,398.33,44.0,2004-03-04,rachelsantiago@miranda-brock.info,furnITure
+795,adam,Female,,,142.0,2016-02-26,,furnITure
+796,Brian,,73.0,47.28,162.0,2016-06-10,walvarado@johnson.com,eLeCtrOnIcs
+797,MICHAEL,unknown,,458.42,104.0,2019-11-08,,Electronics
+798,,Male,,108.35,62.0,invalid_date,,furnITure
+799,NINA,unknown,,164.49,63.0,2025-07-29,jharvey@gmail.com,clothing
+800,PATRICK,unknown,29.0,168.69,,2021-13-40,,CLOTHING
+801,,,,68.55,,2004-04-04,,furnITure
+802,,Female,56.0,280.84,184.0,2021-13-40,william68@thomas.com,CLOTHING
+803,Sara,unknown,,,116.0,2025-03-13,,electronics
+804,Robert,,,,33.0,2020-03-07,djackson@crawford.net,ClOThIng
+805,MICHELLE,Male,11.0,9.89,66.0,2022-08-08,laurenchapman@miller-terry.com,furniture
+806,Bernard,unknown,62.0,38.51,200.0,,,electronics
+807,Mr. Cameron Barrera,,32.0,136.61,85.0,2021-13-40,,CLOTHING
+808,Willie,,33.0,185.17,,invalid_date,jfischer@gmail.com,CLOTHING
+809,CYNTHIA,,,6.44,,2006-01-04,jamessmith@gmail.com,ClOThIng
+810,andrew,MALE,78.0,226.86,9.0,2021-13-40,regina07@ramos-gonzalez.com,Cloth ing
+811,,MALE,52.0,113.38,17.0,2024-12-13,ashleyjones@gallagher.com,ClOThIng
+812,Jacqueline,MALE,,-2.14,,,kevin21@hotmail.com,clothing
+813,jesse,,85.0,,173.0,2021-13-40,amymiller@gmail.com,clothing
+814,Rhonda,Male,,123.36,,,,clothing
+815,Jennifer Mills,MALE,62.0,353.07,,2021-13-40,montoyathomas@stewart.net,ClOThIng
+816,DAWN,Female,,1.31,,2004-04-30,,ClOThIng
+817,HAROLD,female,,44.73,,2025-04-15,,Cloth ing
+818,tara,unknown,,362.42,167.0,invalid_date,,furnITure
+819,JORDAN,unknown,88.0,-25.86,138.0,2021-13-40,,Cloth ing
+820,rachel,MALE,36.0,,27.0,2023-01-28,,CLOTHING
+821,FRED,,52.0,,15.0,2021-13-40,ntanner@hotmail.com,Electronics
+822,GAIL,Male,51.0,350.09,52.0,2018-08-14,,ClOThIng
+823,Curtis Smith,Female,,427.39,,2011-04-11,,Electronics
+824,Traci Smith,Male,27.0,125.85,,2023-01-17,,clothing
+825,GRANT,MALE,79.0,56.31,-3.0,2021-11-29,,ClOThIng
+826,,Female,53.0,129.79,163.0,2021-13-40,,electronics
+827,,female,67.0,,,2021-13-40,jessica31@yahoo.com,eLeCtrOnIcs
+828,Carolyn Moore,,,,,2022-04-21,,Cloth ing
+829,Kirsten,MALE,74.0,16.21,192.0,2022-08-08,,clothing
+830,CHAD,female,89.0,136.6,,2021-04-29,,eLeCtrOnIcs
+831,dwayne,Male,,283.59,,invalid_date,,eLeCtrOnIcs
+832,Patrick,MALE,51.0,,197.0,invalid_date,michaeldurham@hotmail.com,clothing
+833,jared,Male,,102.34,62.0,2021-13-40,,clothing
+834,Natalie Henderson,,,162.74,55.0,2020-09-08,phillipsamber@gmail.com,Cloth ing
+835,Stephanie Austin DDS,Male,,155.31,,2021-02-27,,furnITure
+836,MELISSA,female,,-46.66,,2020-01-12,cynthia08@hodge.com,electronics
+837,,,77.0,132.73,148.0,invalid_date,,furniture
+838,Karen,female,,492.76,104.0,2020-04-23,crawfordtimothy@richardson.com,ClOThIng
+839,PATRICIA,MALE,51.0,,,,,Cloth ing
+840,mike,Female,,,155.0,,,CLOTHING
+841,,unknown,16.0,39.19,48.0,2021-13-40,edelgado@christensen.com,Electronics
+842,CARLOS,unknown,35.0,219.79,,,,clothing
+843,DAVID,Male,,144.06,130.0,invalid_date,,clothing
+844,,Female,22.0,163.02,,invalid_date,jmorrison@davis-bird.com,furnITure
+845,Thomas Atkins,MALE,,,90.0,2025-01-29,,furniture
+846,Billy,Male,18.0,,75.0,invalid_date,hedwards@gmail.com,CLOTHING
+847,william,MALE,43.0,124.26,8.0,,,Cloth ing
+848,Jeffrey,MALE,,464.47,,,,Electronics
+849,edward,unknown,22.0,23.57,,2009-05-21,erinsexton@yahoo.com,clothing
+850,anita,Male,,,103.0,,melanieaguirre@hernandez.com,Electronics
+851,,,80.0,118.12,134.0,2012-05-10,danielbrady@castillo.com,Cloth ing
+852,Dennis,,22.0,,146.0,2021-13-40,,Electronics
+853,,unknown,60.0,172.24,186.0,invalid_date,,electronics
+854,KYLE,Female,,,181.0,,becksandra@hotmail.com,clothing
+855,DAVID,,28.0,,,2021-13-40,,ClOThIng
+856,JAMES,unknown,,262.87,185.0,2021-13-40,,Cloth ing
+857,Marcia,unknown,,324.18,,2021-13-40,,furniture
+858,RICHARD,unknown,88.0,-20.87,106.0,2008-10-19,scottmontgomery@stone.net,eLeCtrOnIcs
+859,Joseph,,56.0,71.09,104.0,2022-11-22,michaelhorton@clark-martin.com,CLOTHING
+860,Wendy,Male,,24.3,121.0,2025-04-29,,eLeCtrOnIcs
+861,meagan,unknown,38.0,206.92,,2021-13-40,,clothing
+862,,MALE,12.0,428.9,,2021-13-40,egray@baker.net,CLOTHING
+863,AARON,Female,52.0,332.22,107.0,2021-13-40,,CLOTHING
+864,,,,,98.0,2021-13-40,cruztracy@glenn.org,Electronics
+865,Angela,unknown,43.0,-48.16,,2024-04-21,,electronics
+866,,,31.0,,,invalid_date,jamesjohnson@ward-olson.com,furniture
+867,JUSTIN,MALE,20.0,415.32,85.0,invalid_date,,CLOTHING
+868,scott,Female,29.0,,,2002-11-23,,eLeCtrOnIcs
+869,theresa,,56.0,,10.0,2020-08-13,nwilson@yahoo.com,Cloth ing
+870,Dr. Lisa Perez,female,,-8.42,1.0,,,Cloth ing
+871,jonathan,,,39.59,3.0,2021-13-40,,clothing
+872,tony,,14.0,112.77,59.0,2021-13-40,,clothing
+873,TODD,unknown,25.0,148.02,14.0,,,furniture
+874,Cindy Harris,female,,1.2,,,,ClOThIng
+875,,MALE,79.0,134.14,103.0,2000-06-14,jhutchinson@king.net,eLeCtrOnIcs
+876,,MALE,,,156.0,invalid_date,,eLeCtrOnIcs
+877,Samantha,unknown,65.0,438.22,7.0,2021-13-40,,Cloth ing
+878,MATTHEW,MALE,49.0,,160.0,,npage@gmail.com,furnITure
+879,Justin Griffith,unknown,22.0,106.27,125.0,2002-04-27,rebecca64@schneider.com,electronics
+880,jacob,,55.0,25.6,,2021-13-40,,eLeCtrOnIcs
+881,heidi,MALE,72.0,16.91,,2021-13-40,lauramartin@smith.com,ClOThIng
+882,dale,MALE,67.0,44.3,133.0,,,furniture
+883,Tonya Hendrix,Female,63.0,,,,,Cloth ing
+884,Christine,,39.0,17.57,33.0,2024-07-17,jacquelinemaldonado@hotmail.com,electronics
+885,CYNTHIA,female,20.0,44.72,,invalid_date,,furnITure
+886,timothy,,41.0,89.97,125.0,2022-10-06,walter09@gmail.com,Electronics
+887,kimberly,,,,156.0,invalid_date,,eLeCtrOnIcs
+888,Kimberly,unknown,30.0,,4.0,invalid_date,catherinerobles@gmail.com,eLeCtrOnIcs
+889,Sara Hull,MALE,,,13.0,2025-01-13,sabrinajohnson@hotmail.com,Electronics
+890,zachary,,47.0,109.82,55.0,2021-13-40,,CLOTHING
+891,Kristi,MALE,69.0,,185.0,2004-05-13,,eLeCtrOnIcs
+892,brandy,MALE,,141.49,118.0,2021-10-02,michael53@yahoo.com,furniture
+893,,MALE,59.0,21.37,,2024-06-06,johnbrown@hotmail.com,furniture
+894,,unknown,72.0,130.25,,2021-13-40,,clothing
+895,,unknown,78.0,43.09,95.0,2020-03-14,,CLOTHING
+896,melanie,unknown,46.0,237.59,,2024-10-13,,CLOTHING
+897,carrie,MALE,90.0,23.95,196.0,2021-13-40,,clothing
+898,Crystal,MALE,51.0,,178.0,2020-07-29,,Cloth ing
+899,brandon,MALE,24.0,,71.0,2023-06-30,schultzthomas@yahoo.com,eLeCtrOnIcs
+900,HECTOR,Male,,,2.0,invalid_date,,CLOTHING
+901,gabriel,Male,47.0,252.05,96.0,invalid_date,maddoxwilliam@holder.com,electronics
+902,Pamela,Male,69.0,233.77,117.0,2023-03-30,christopherevans@hansen.com,Electronics
+903,,,65.0,33.93,,2021-07-14,michael67@gmail.com,furnITure
+904,kimberly,female,95.0,171.55,70.0,2021-13-40,,furnITure
+905,,female,95.0,98.61,47.0,,,furnITure
+906,Sean Baker,unknown,65.0,,,2016-12-22,xmartin@hawkins.net,eLeCtrOnIcs
+907,,,72.0,157.78,132.0,2025-01-04,,eLeCtrOnIcs
+908,DUSTIN,unknown,90.0,,99.0,invalid_date,,Cloth ing
+909,Cynthia Scott,,,148.82,-7.0,2021-13-40,,ClOThIng
+910,,unknown,,23.54,94.0,2016-07-03,,CLOTHING
+911,Adam,Female,,,29.0,2021-13-40,,furnITure
+912,CATHERINE,unknown,,31.8,117.0,2021-13-40,murphynancy@mendoza.org,clothing
+913,Ryan Ramirez,Female,,102.39,,,,furniture
+914,Dustin Reynolds,,,278.32,100.0,2021-13-40,,Cloth ing
+915,patrick,MALE,,185.34,196.0,2023-02-25,,electronics
+916,,,53.0,122.58,,2015-05-17,,clothing
+917,Benjamin Thomas,female,59.0,-1.89,143.0,,,clothing
+918,bill,Male,56.0,,,2023-02-15,philiphiggins@hotmail.com,furnITure
+919,,female,,462.75,27.0,invalid_date,thompsonjustin@gmail.com,eLeCtrOnIcs
+920,Patrick,unknown,88.0,456.22,,invalid_date,,clothing
+921,daniel,unknown,70.0,,90.0,2022-07-17,,Electronics
+922,Bonnie,MALE,57.0,413.99,108.0,2004-04-15,,eLeCtrOnIcs
+923,kathleen,unknown,,63.71,,2009-03-27,rebeccahaley@moore-todd.com,Cloth ing
+924,,female,,177.62,195.0,2024-06-10,bgonzalez@mitchell-thomas.info,furnITure
+925,,,75.0,432.36,154.0,invalid_date,,ClOThIng
+926,joyce,female,88.0,,179.0,2021-13-40,,electronics
+927,Jessica,,,10.63,5.0,2023-02-25,,clothing
+928,Dr. Elaine Mitchell MD,unknown,,111.57,88.0,,,CLOTHING
+929,Emily Sanchez,Female,40.0,0.8,,,johnrussell@yahoo.com,Electronics
+930,Robert,unknown,36.0,92.17,,2011-11-11,joe82@ramos.org,furnITure
+931,Barry,MALE,21.0,184.92,,2021-13-40,,clothing
+932,Grant Scott,unknown,55.0,,,2021-13-40,,electronics
+933,Danielle Green,unknown,,153.08,69.0,2023-01-03,,furnITure
+934,DAVID,MALE,,164.02,,invalid_date,leebrian@yahoo.com,Electronics
+935,,unknown,47.0,417.38,116.0,invalid_date,hmiller@gmail.com,Cloth ing
+936,,female,,298.77,103.0,2022-09-14,ambersmith@hotmail.com,CLOTHING
+937,John Bentley,MALE,,147.04,,2024-07-15,grimestravis@gmail.com,ClOThIng
+938,,unknown,55.0,470.51,30.0,,,CLOTHING
+939,Matthew Bender,MALE,12.0,108.44,,2021-13-40,,Cloth ing
+940,Jerome Crawford,Female,57.0,,,2003-05-14,onealpatricia@gmail.com,CLOTHING
+941,PAMELA,unknown,,,14.0,2021-13-40,,electronics
+942,JENNIFER,unknown,65.0,413.21,140.0,2021-13-40,,CLOTHING
+943,,MALE,,,3.0,2018-08-05,,electronics
+944,,unknown,73.0,363.95,,2021-03-15,mmccoy@jacobs-ray.info,furnITure
+945,Patty Turner,female,,88.46,18.0,2021-05-24,,furnITure
+946,Jessica Hansen,,,,140.0,2021-13-40,,eLeCtrOnIcs
+947,Lori Snyder,MALE,10.0,182.13,98.0,invalid_date,welchamanda@esparza-ford.com,eLeCtrOnIcs
+948,Amy,female,,,197.0,invalid_date,,electronics
+949,Eric,female,70.0,69.91,65.0,,,CLOTHING
+950,SCOTT,unknown,50.0,,126.0,2021-13-40,,Electronics
+951,bobby,female,58.0,155.8,,,nixonkristin@lin.com,furniture
+952,andrew,,35.0,97.55,152.0,,gadams@trujillo.info,Electronics
+953,Mark White,unknown,41.0,,,2000-09-08,,Cloth ing
+954,Emily Garcia,Female,,100.32,71.0,2020-05-14,hbell@crawford.com,furnITure
+955,Christina,Male,86.0,,170.0,invalid_date,darlene64@yahoo.com,clothing
+956,,Female,,370.69,49.0,,,electronics
+957,,,52.0,205.11,61.0,2021-13-40,,clothing
+958,Yolanda Kennedy,unknown,63.0,373.5,125.0,2021-13-40,,eLeCtrOnIcs
+959,Christina,unknown,53.0,32.12,,2020-05-05,,eLeCtrOnIcs
+960,trevor,,,,61.0,invalid_date,,clothing
+961,,MALE,22.0,494.7,141.0,invalid_date,,Cloth ing
+962,,MALE,80.0,,93.0,invalid_date,nathanwood@olson-browning.com,ClOThIng
+963,SHAWN,,49.0,-36.98,129.0,,,eLeCtrOnIcs
+964,ROBERT,female,,,141.0,,,Cloth ing
+965,Randy,Female,,414.32,49.0,2021-13-40,,clothing
+966,,female,,34.16,12.0,2024-02-10,adam37@erickson.info,eLeCtrOnIcs
+967,carrie,female,32.0,489.8,,2023-07-18,donna89@matthews.com,Electronics
+968,Jesus,unknown,27.0,18.86,75.0,,vpage@fisher.com,eLeCtrOnIcs
+969,John,,,175.9,,,,eLeCtrOnIcs
+970,BRANDON,female,78.0,381.38,123.0,invalid_date,,furnITure
+971,amanda,unknown,56.0,119.75,60.0,,,furnITure
+972,Tyler,unknown,53.0,54.73,,,,Cloth ing
+973,Micheal,unknown,48.0,291.51,68.0,2021-13-40,,furniture
+974,sherry,female,,62.95,,invalid_date,,Electronics
+975,,Male,69.0,337.25,,invalid_date,tamara94@yahoo.com,Electronics
+976,brittany,MALE,,56.19,104.0,2021-13-40,,clothing
+977,KELSEY,MALE,22.0,171.08,57.0,,,ClOThIng
+978,,unknown,62.0,40.63,3.0,2018-05-24,,eLeCtrOnIcs
+979,Jason,female,,385.9,10.0,2021-13-40,,eLeCtrOnIcs
+980,Craig,MALE,,,151.0,invalid_date,,electronics
+981,Stephanie,MALE,51.0,170.27,63.0,2023-05-05,,eLeCtrOnIcs
+982,Monica Romero,female,36.0,,,,larsonjulie@gmail.com,Electronics
+983,JILL,MALE,49.0,85.89,,2022-11-25,,furnITure
+984,Sabrina Kelly,unknown,56.0,-13.23,101.0,2009-03-10,,ClOThIng
+985,Amy,Female,,349.58,199.0,,mcdonaldcurtis@gmail.com,Electronics
+986,tiffany,female,57.0,,,2021-13-40,,ClOThIng
+987,angela,female,14.0,149.05,,2024-11-16,,Cloth ing
+988,Curtis Nunez,unknown,77.0,,57.0,2019-08-19,,furniture
+989,Erin Jones,unknown,,29.41,86.0,,,electronics
+990,Eric,Female,36.0,147.91,72.0,2021-13-40,,Electronics
+991,PATRICK,MALE,,5.02,10.0,2022-02-11,,CLOTHING
+992,NATHAN,female,,,,2021-04-24,,ClOThIng
+993,,unknown,63.0,427.67,,2020-01-04,,CLOTHING
+994,Danny,,,125.45,,invalid_date,,Electronics
+995,,Male,71.0,94.36,,2013-04-25,,CLOTHING
+996,Jennifer,unknown,74.0,101.92,78.0,2023-05-01,lewisstephanie@bryan-farrell.com,Electronics
+997,Kathryn Thompson,MALE,,317.75,,2024-01-17,michaelfoster@yahoo.com,eLeCtrOnIcs
+998,jeffrey,female,82.0,54.35,11.0,,anthony03@young.com,electronics
+999,Daniel,,53.0,,157.0,,willie96@thomas.com,furnITure
+1000,ERIC,Male,55.0,,,2023-03-11,dwilson@davis.org,furniture
+1001,teresa,unknown,,197.44,94.0,invalid_date,john93@duncan.com,furniture
+1002,Hannah,MALE,80.0,369.93,171.0,2021-13-40,carloswhitney@hotmail.com,Cloth ing
+1003,Steven Richardson,female,75.0,175.71,43.0,2021-13-40,,furniture
+1004,Richard Ray,MALE,,,50.0,,conwayamy@watson.com,electronics
+1005,Stephen,unknown,30.0,,,2021-13-40,bmurray@hunter-travis.com,furniture
+1006,WESLEY,,42.0,,108.0,2024-05-07,,ClOThIng
+1007,,,18.0,31.58,189.0,2018-06-03,crangel@richardson.com,furnITure
+1008,Kevin Coleman,,,174.88,,,sean86@gmail.com,furniture
+1009,claire,Female,61.0,139.48,,2021-13-40,,Electronics
+1010,AMANDA,Female,25.0,116.74,185.0,2020-01-14,,furniture
+1011,SUZANNE,female,33.0,,,invalid_date,,eLeCtrOnIcs
+1012,Diana King,MALE,,24.02,172.0,2002-11-08,christine19@anderson-baker.com,electronics
+1013,Alexa,Male,69.0,,,,richardwilliams@barnes.com,furnITure
+1014,JAMES,female,,,,invalid_date,,CLOTHING
+1015,Samantha,female,,29.82,101.0,2007-04-17,brownsamantha@montoya-harris.com,furniture
+1016,amanda,MALE,86.0,440.0,,2015-06-05,,Electronics
+1017,priscilla,,57.0,156.28,125.0,2025-08-09,marc63@gmail.com,furnITure
+1018,Anthony,MALE,48.0,101.06,54.0,2021-13-40,,electronics
+1019,Michael Wilson,female,19.0,362.1,96.0,2021-04-03,,furnITure
+1020,taylor,female,28.0,,199.0,2022-11-17,,eLeCtrOnIcs
+1021,Craig Chapman,unknown,61.0,,,2004-08-25,,ClOThIng
+1022,michael,MALE,54.0,328.82,156.0,invalid_date,josewright@gmail.com,eLeCtrOnIcs
+1023,,unknown,39.0,171.33,22.0,invalid_date,,furnITure
+1024,Charles Meza,Male,38.0,135.73,96.0,,,electronics
+1025,luke,female,18.0,44.24,76.0,2020-07-24,,furniture
+1026,Nathan,,53.0,314.13,178.0,2023-12-19,,clothing
+1027,JOSHUA,female,,,124.0,invalid_date,joseph29@hotmail.com,Cloth ing
+1028,Steven Bennett,,,446.63,,invalid_date,lisa22@davenport.com,Electronics
+1029,robin,Female,55.0,386.91,182.0,2008-09-29,,clothing
+1030,kent,,44.0,-18.28,81.0,invalid_date,,Cloth ing
+1031,Raymond,female,46.0,216.69,179.0,2021-13-40,,clothing
+1032,Daniel Bennett,MALE,29.0,33.58,,invalid_date,tiffany01@yahoo.com,CLOTHING
+1033,michael,MALE,,,65.0,,,furniture
+1034,,,93.0,240.45,,invalid_date,,ClOThIng
+1035,robert,female,43.0,5.06,,invalid_date,,clothing
+1036,ALBERT,female,21.0,161.47,3.0,2024-07-11,,Electronics
+1037,Bradley,unknown,,77.81,8.0,invalid_date,,Electronics
+1038,zachary,female,47.0,38.58,73.0,2025-05-11,,Cloth ing
+1039,Matthew,Female,29.0,,40.0,2023-11-06,,furniture
+1040,,,,195.65,,,,furniture
+1041,,female,,1.54,,2021-13-40,,electronics
+1042,Stephanie Curtis,female,,12.11,,2021-13-40,mccallalicia@gmail.com,eLeCtrOnIcs
+1043,DERRICK,MALE,71.0,42.65,139.0,2018-07-25,,furniture
+1044,MARK,Female,,426.93,90.0,2021-13-40,,CLOTHING
+1045,sarah,MALE,26.0,421.66,,2021-13-40,,Cloth ing
+1046,TRAVIS,Female,35.0,,,invalid_date,,eLeCtrOnIcs
+1047,Patrick Galvan,MALE,71.0,379.07,52.0,,,Cloth ing
+1048,AMANDA,Male,51.0,,91.0,2021-13-40,larsonadam@hotmail.com,CLOTHING
+1049,,MALE,,274.95,84.0,2000-01-27,miguelmiller@petersen.com,ClOThIng
+1050,,MALE,64.0,45.82,171.0,2007-06-28,,Cloth ing
+1051,MELINDA,female,,460.42,126.0,2015-06-13,,Electronics
+1052,steven,,68.0,121.19,44.0,2024-03-21,nealjessica@gmail.com,Cloth ing
+1053,Amy Jones,MALE,,78.36,75.0,,,Electronics
+1054,SHAWN,Female,75.0,,,2023-02-10,,CLOTHING
+1055,jon,,33.0,380.68,,invalid_date,,eLeCtrOnIcs
+1056,,unknown,,25.57,,2025-06-18,,Cloth ing
+1057,Michael Compton,Female,90.0,,,invalid_date,vincent60@petty.com,Cloth ing
+1058,derek,MALE,,146.69,,2021-13-40,,Electronics
+1059,Emily Wright,,58.0,119.08,41.0,2021-13-40,arianamills@clark.com,ClOThIng
+1060,Michele Edwards,Female,,210.83,39.0,invalid_date,,furniture
+1061,corey,female,,,,invalid_date,,ClOThIng
+1062,sarah,Male,76.0,6.94,169.0,2021-13-40,,ClOThIng
+1063,,MALE,42.0,,116.0,invalid_date,,Electronics
+1064,,female,93.0,121.61,160.0,,,eLeCtrOnIcs
+1065,Jacqueline Johnson,MALE,41.0,205.49,38.0,2023-09-06,grayhelen@hotmail.com,eLeCtrOnIcs
+1066,,unknown,,50.38,120.0,,cwilson@hotmail.com,furnITure
+1067,gerald,MALE,20.0,470.19,139.0,invalid_date,,Cloth ing
+1068,JACOB,MALE,,386.64,,,,furniture
+1069,MARY,,51.0,107.98,125.0,invalid_date,,eLeCtrOnIcs
+1070,TIFFANY,MALE,,,141.0,2021-13-40,lowerypaul@hotmail.com,CLOTHING
+1071,todd,MALE,35.0,-42.01,73.0,,,furniture
+1072,,,100.0,-42.98,198.0,2025-04-19,,clothing
+1073,Michael,Male,,,84.0,,,Electronics
+1074,austin,Female,42.0,,20.0,2007-10-07,,electronics
+1075,,unknown,,69.83,17.0,invalid_date,,furnITure
+1076,JESSE,MALE,80.0,162.36,107.0,invalid_date,miafox@hotmail.com,eLeCtrOnIcs
+1077,cindy,female,28.0,37.65,,2017-01-10,ychase@yahoo.com,electronics
+1078,alexander,Male,37.0,183.74,110.0,,keyjoseph@yahoo.com,Cloth ing
+1079,JESSICA,unknown,,-14.58,,,,furniture
+1080,,Female,,296.2,,2024-03-26,,Electronics
+1081,Theodore Hunt,MALE,,309.04,199.0,2024-06-21,,furnITure
+1082,PAUL,Female,,8.22,197.0,invalid_date,,electronics
+1083,kathryn,MALE,87.0,159.88,14.0,2021-13-40,,CLOTHING
+1084,Jonathon,unknown,,-39.88,195.0,2023-05-09,,furnITure
+1085,Alyssa Cabrera,unknown,13.0,,60.0,2005-04-09,aaron13@hotmail.com,Electronics
+1086,,female,,167.77,82.0,invalid_date,ianfisher@hotmail.com,eLeCtrOnIcs
+1087,,Female,,,152.0,2020-02-01,,furnITure
+1088,Aaron Perez,Female,28.0,,,invalid_date,,ClOThIng
+1089,Preston White,Female,,88.44,108.0,2007-06-28,poolekristen@yahoo.com,electronics
+1090,Richard Hudson,female,10.0,,63.0,2023-08-17,debbie25@bishop.com,Electronics
+1091,James,,,,,,,Electronics
+1092,,unknown,87.0,5.8,,,,Electronics
+1093,,female,24.0,,,,,electronics
+1094,,unknown,,156.54,,,,furniture
+1095,Erin,unknown,76.0,,83.0,invalid_date,,ClOThIng
+1096,Tonya Yoder,,100.0,250.19,,2021-13-40,,furniture
+1097,Jason Bell,MALE,,28.8,,2011-12-20,,furnITure
+1098,Brian,female,,273.38,134.0,,landrykyle@avila.com,Electronics
+1099,,female,74.0,58.26,131.0,2021-13-40,,furniture
+1100,Katie,unknown,58.0,,,2024-01-05,benjaminrussell@hotmail.com,eLeCtrOnIcs
+1101,Glenda,MALE,30.0,100.36,95.0,2020-05-03,balldiane@brown.com,Electronics
+1102,,unknown,62.0,62.79,,,,eLeCtrOnIcs
+1103,SANDRA,unknown,,460.29,49.0,2021-13-40,fgardner@hotmail.com,Electronics
+1104,andrew,MALE,46.0,53.85,,2013-01-11,ryanhaley@lewis-doyle.net,ClOThIng
+1105,Dr. Priscilla James,,,91.71,,2022-06-20,,electronics
+1106,JASON,Female,80.0,57.33,174.0,2020-10-12,,electronics
+1107,alyssa,MALE,75.0,349.19,,2021-06-28,kfox@hotmail.com,electronics
+1108,,Male,11.0,,,2017-09-01,fyang@hotmail.com,electronics
+1109,Jennifer,,,,46.0,2001-02-22,,eLeCtrOnIcs
+1110,Mary,unknown,73.0,61.66,-5.0,invalid_date,,eLeCtrOnIcs
+1111,jeffery,unknown,45.0,,51.0,2021-13-40,maryerickson@yahoo.com,Electronics
+1112,DAVID,Male,62.0,278.07,,2021-05-25,,ClOThIng
+1113,BRANDON,Male,,437.76,188.0,invalid_date,russell72@russo.com,Electronics
+1114,peter,Male,,-44.56,186.0,,,eLeCtrOnIcs
+1115,,,74.0,,3.0,2022-07-07,,furnITure
+1116,Michael,MALE,54.0,,143.0,2009-07-05,uferguson@knight-porter.com,CLOTHING
+1117,madison,MALE,32.0,-18.88,84.0,invalid_date,,Electronics
+1118,Paul Wright,female,,,160.0,2021-13-40,jesse98@anderson.org,CLOTHING
+1119,SARAH,Female,52.0,288.85,110.0,2021-13-40,,clothing
+1120,Joseph,Female,60.0,288.35,,,kennethjones@mathews-davis.com,furnITure
+1121,Susan,MALE,,82.55,124.0,,,CLOTHING
+1122,,Male,,136.12,18.0,,,furnITure
+1123,,female,34.0,478.12,139.0,2004-05-03,,ClOThIng
+1124,dustin,MALE,45.0,1.72,-4.0,2006-06-30,ronaldbradford@herring.com,Electronics
+1125,jerry,MALE,50.0,20.17,114.0,invalid_date,lorettacollins@hotmail.com,ClOThIng
+1126,Anne Martin,MALE,,,,invalid_date,,Cloth ing
+1127,KRISTEN,Female,55.0,,190.0,invalid_date,,Electronics
+1128,,female,57.0,389.98,84.0,2000-07-30,,electronics
+1129,Christian Cooper,unknown,,,,,,electronics
+1130,Jasmine,MALE,85.0,381.45,157.0,2009-08-31,hhaynes@blake-bryant.biz,Electronics
+1131,Elizabeth,female,73.0,426.22,67.0,invalid_date,zharrington@yahoo.com,ClOThIng
+1132,KENDRA,unknown,,108.73,2.0,2020-08-21,,CLOTHING
+1133,jacob,,42.0,141.59,,2020-06-29,,CLOTHING
+1134,samantha,,,488.06,,2021-13-40,tony87@burke.biz,furnITure
+1135,Lorraine Mcclain,,,10.44,119.0,2020-11-28,,electronics
+1136,stanley,unknown,,65.44,49.0,2021-13-40,,Cloth ing
+1137,Rachel,female,,43.54,,invalid_date,,eLeCtrOnIcs
+1138,Bethany Baker,Male,65.0,60.19,140.0,invalid_date,brianthompson@clark.info,ClOThIng
+1139,tracy,MALE,51.0,377.82,,2000-10-03,,Electronics
+1140,Randy Smith,unknown,42.0,-12.55,,2023-06-26,,clothing
+1141,,,,,,2024-09-16,,furniture
+1142,,Male,98.0,-5.59,75.0,2006-10-03,,clothing
+1143,Jerry,Male,89.0,,90.0,2024-10-23,,clothing
+1144,rebecca,unknown,83.0,104.93,,invalid_date,,ClOThIng
+1145,JERRY,female,,,-8.0,2012-04-15,,Cloth ing
+1146,Kathryn Osborne,unknown,53.0,,107.0,2021-13-40,andrew59@allen-soto.com,eLeCtrOnIcs
+1147,,Female,,103.65,118.0,,,clothing
+1148,CARRIE,,58.0,52.95,,invalid_date,,ClOThIng
+1149,JESSICA,,44.0,,196.0,2024-09-13,,Cloth ing
+1150,Hailey,Male,69.0,322.58,99.0,2021-13-40,,electronics
+1151,peter,,66.0,108.66,8.0,,,Cloth ing
+1152,wendy,female,23.0,,32.0,,,Cloth ing
+1153,AUSTIN,Female,,,176.0,2022-12-14,,Electronics
+1154,Stephanie,female,59.0,,,,,Electronics
+1155,sarah,,66.0,139.43,,,,Electronics
+1156,Kenneth,female,18.0,-23.28,149.0,invalid_date,thickman@valdez-olson.com,Cloth ing
+1157,russell,unknown,,122.03,196.0,2021-13-40,,furnITure
+1158,james,unknown,30.0,122.55,60.0,2023-01-10,,ClOThIng
+1159,ALISON,,,287.11,-6.0,invalid_date,,furnITure
+1160,carol,female,15.0,,21.0,2021-13-40,rochabrooke@hotmail.com,electronics
+1161,,,25.0,,,invalid_date,,ClOThIng
+1162,Jose Bentley,unknown,,434.47,170.0,,matthew29@jefferson-allen.com,ClOThIng
+1163,Alexandra Thompson,Male,,-45.48,,2020-06-03,,eLeCtrOnIcs
+1164,Sheila Hudson,,37.0,,,invalid_date,,electronics
+1165,,Female,34.0,106.88,117.0,invalid_date,,electronics
+1166,,Female,78.0,,4.0,2009-02-15,,electronics
+1167,Alex Mitchell,,,343.16,52.0,2023-03-25,,clothing
+1168,MATTHEW,,,,,invalid_date,,eLeCtrOnIcs
+1169,MELISSA,female,64.0,102.27,79.0,invalid_date,,Electronics
+1170,holly,female,54.0,,124.0,invalid_date,christian34@hall.com,clothing
+1171,,MALE,,56.24,31.0,2021-13-40,clairepacheco@gmail.com,clothing
+1172,jill,MALE,31.0,396.87,130.0,2021-13-40,,CLOTHING
+1173,DERRICK,female,,45.39,103.0,2009-07-06,collinsraymond@hotmail.com,Electronics
+1174,Katherine Powers,,70.0,,5.0,2022-09-29,,ClOThIng
+1175,MICHAEL,MALE,17.0,,58.0,,,clothing
+1176,Gary Smith,unknown,,376.66,55.0,2021-13-40,,furniture
+1177,MARY,female,,-13.67,85.0,,xglover@hotmail.com,clothing
+1178,deborah,MALE,19.0,,,,nroberts@rogers.com,clothing
+1179,Michael Stevens,MALE,35.0,,128.0,2021-13-40,,furnITure
+1180,micheal,MALE,66.0,183.43,,2021-11-20,,Cloth ing
+1181,Jodi Bell,Male,10.0,14.39,165.0,invalid_date,,eLeCtrOnIcs
+1182,Richard Watts,,28.0,20.74,106.0,,,eLeCtrOnIcs
+1183,,unknown,50.0,149.86,,2021-13-40,,furnITure
+1184,Tammy,female,,39.79,181.0,2020-02-22,,Cloth ing
+1185,Eric Baker,female,26.0,12.76,174.0,2024-06-12,,eLeCtrOnIcs
+1186,DAWN,MALE,25.0,122.53,,2021-13-40,,Electronics
+1187,Robert,female,,130.39,,,rmullins@yahoo.com,ClOThIng
+1188,Jennifer,Female,48.0,,,,ilewis@yahoo.com,electronics
+1189,christopher,unknown,,,97.0,,,Cloth ing
+1190,Samantha,unknown,,139.27,134.0,2021-02-06,hannahkerr@coleman.com,ClOThIng
+1191,Ian,female,,81.09,168.0,,,eLeCtrOnIcs
+1192,Katherine Salazar,unknown,65.0,,76.0,2021-12-14,,eLeCtrOnIcs
+1193,MATTHEW,Male,,13.73,148.0,2022-07-04,,electronics
+1194,emily,unknown,,82.69,,2024-03-12,,eLeCtrOnIcs
+1195,cindy,MALE,,95.24,,,hendrickskelsey@gmail.com,electronics
+1196,Melissa Stevenson,Male,60.0,60.79,,2021-13-40,,ClOThIng
+1197,Bradley,Female,66.0,99.61,134.0,2021-13-40,,Cloth ing
+1198,James,unknown,,226.25,,,williamsmelanie@yahoo.com,eLeCtrOnIcs
+1199,,,66.0,142.53,,2002-09-13,donna05@gmail.com,ClOThIng
+1200,,unknown,,86.74,13.0,,,CLOTHING
+1201,,Male,58.0,,,2021-13-40,,furnITure
+1202,Daniel,female,75.0,,72.0,2021-08-09,,Electronics
+1203,Andrea,unknown,,-47.61,54.0,2022-07-26,,eLeCtrOnIcs
+1204,james,unknown,42.0,388.43,119.0,2015-08-28,,CLOTHING
+1205,Richard Shea,female,,-24.27,,2021-12-21,,clothing
+1206,BRANDON,unknown,,7.56,140.0,2020-06-19,,ClOThIng
+1207,Catherine Graham,Male,,396.57,69.0,2024-09-12,nunezchristine@adams.com,CLOTHING
+1208,Jon Lucero,unknown,49.0,214.47,21.0,2021-13-40,,electronics
+1209,Ronald,,,48.16,32.0,invalid_date,,furnITure
+1210,,MALE,13.0,193.43,,2024-10-12,,furnITure
+1211,james,Male,42.0,345.66,44.0,2021-08-20,pruittedward@jones.com,clothing
+1212,Tracy,unknown,20.0,,131.0,,,Electronics
+1213,DEBBIE,unknown,,,177.0,2011-07-21,,ClOThIng
+1214,Martin Schroeder,female,98.0,-40.66,168.0,2002-09-09,glong@jones.net,Electronics
+1215,Melissa,Male,,285.47,26.0,invalid_date,,clothing
+1216,Willie Barton,Male,93.0,,38.0,2021-13-40,nicholas63@hotmail.com,ClOThIng
+1217,Hayden Lyons DDS,unknown,25.0,94.86,154.0,,,furnITure
+1218,,female,46.0,10.83,165.0,2024-07-11,,furnITure
+1219,Michelle,,44.0,71.8,58.0,2012-11-26,,CLOTHING
+1220,JENNIFER,,93.0,321.58,180.0,,,CLOTHING
+1221,,MALE,,186.35,94.0,2021-13-40,,Cloth ing
+1222,James Gross,MALE,53.0,474.37,,2007-11-08,,clothing
+1223,Todd Holmes,MALE,20.0,,130.0,2023-10-07,velazquezeric@hotmail.com,electronics
+1224,nicole,MALE,,127.8,,invalid_date,,electronics
+1225,STEVEN,,,,147.0,,,CLOTHING
+1226,Logan,Female,43.0,-7.33,135.0,,,CLOTHING
+1227,robert,Female,24.0,217.82,,invalid_date,,ClOThIng
+1228,David,female,,,-6.0,invalid_date,josephnelson@gmail.com,electronics
+1229,Cynthia Flynn,MALE,13.0,-47.06,,,,eLeCtrOnIcs
+1230,Cynthia,MALE,74.0,,81.0,2015-12-10,,furnITure
+1231,Natasha,Male,,192.29,,invalid_date,,electronics
+1232,LOUIS,,75.0,21.84,21.0,2023-01-12,,eLeCtrOnIcs
+1233,amy,unknown,64.0,43.89,105.0,,,electronics
+1234,Daniel,Male,70.0,,30.0,,staceysmith@yahoo.com,furnITure
+1235,Elizabeth Lopez,Female,58.0,,7.0,2021-13-40,,CLOTHING
+1236,,female,,88.56,62.0,,,CLOTHING
+1237,George,female,71.0,181.31,,2021-12-26,,eLeCtrOnIcs
+1238,jacob,female,39.0,,,2021-13-40,ivansnow@thomas.biz,clothing
+1239,Melissa,,66.0,-8.84,107.0,,williamslaura@yahoo.com,clothing
+1240,SHARON,MALE,,182.95,,2021-12-29,,clothing
+1241,,Female,,,7.0,2021-13-40,ruizbrandi@perez.biz,Electronics
+1242,david,Female,,216.55,,,,furnITure
+1243,cassandra,unknown,48.0,,74.0,,,electronics
+1244,Kevin Miller,MALE,,-2.81,122.0,2014-11-04,christophermckinney@garner.org,furniture
+1245,,,48.0,29.05,-1.0,2022-11-28,,eLeCtrOnIcs
+1246,vanessa,female,24.0,,125.0,2006-02-22,thompsonzachary@gilmore.com,furnITure
+1247,charles,MALE,29.0,41.89,111.0,,emilydavis@miller.info,furniture
+1248,Franklin,female,50.0,457.4,101.0,invalid_date,,CLOTHING
+1249,,,,,,2021-13-40,,eLeCtrOnIcs
+1250,,Female,,187.28,70.0,invalid_date,sharon86@yahoo.com,CLOTHING
+1251,jeff,unknown,52.0,45.59,72.0,,,ClOThIng
+1252,TODD,unknown,29.0,306.31,6.0,2021-13-40,,eLeCtrOnIcs
+1253,Cynthia,MALE,76.0,,,2021-13-40,,eLeCtrOnIcs
+1254,Jessica Decker,Male,59.0,,,2020-01-15,,Electronics
+1255,KELLY,unknown,,21.13,,2021-13-40,,clothing
+1256,THOMAS,MALE,,68.07,183.0,2011-01-22,,furnITure
+1257,Matthew,female,76.0,,,invalid_date,,ClOThIng
+1258,CODY,female,90.0,215.44,,2021-04-23,calderonkaren@pena-frye.org,Cloth ing
+1259,,female,62.0,142.07,,2013-02-15,,ClOThIng
+1260,Jamie Powell,,,487.88,,invalid_date,,Electronics
+1261,,MALE,,,,2006-09-07,,furnITure
+1262,Summer,Female,48.0,198.74,161.0,2021-09-06,,furnITure
+1263,David Curtis,female,,70.77,75.0,2025-10-02,edwardfernandez@yahoo.com,electronics
+1264,Gina Garcia,female,70.0,413.31,,2025-09-05,pdavis@hotmail.com,electronics
+1265,,MALE,17.0,19.09,192.0,2023-11-20,amy99@gmail.com,electronics
+1266,VERNON,unknown,,281.96,3.0,2021-02-04,,ClOThIng
+1267,Christopher,unknown,52.0,94.72,181.0,,jasonvilla@hotmail.com,ClOThIng
+1268,Rachel Chang,MALE,12.0,231.84,84.0,2003-08-12,,furnITure
+1269,alan,unknown,99.0,,160.0,2021-13-40,gutierrezrachael@gmail.com,furnITure
+1270,,,26.0,34.11,53.0,invalid_date,,eLeCtrOnIcs
+1271,richard,female,71.0,381.61,77.0,invalid_date,,clothing
+1272,,,63.0,,34.0,2018-04-13,trevor16@morgan-rice.biz,eLeCtrOnIcs
+1273,holly,unknown,18.0,41.35,,2000-04-02,crawfordgregory@hotmail.com,clothing
+1274,EMILY,Female,21.0,118.19,,2020-02-27,,Electronics
+1275,joshua,unknown,,,108.0,,,CLOTHING
+1276,craig,,,203.04,22.0,2021-13-40,mercadorobert@johnson.com,CLOTHING
+1277,,female,96.0,,11.0,,glester@hotmail.com,clothing
+1278,,Female,,237.24,135.0,invalid_date,,ClOThIng
+1279,,Male,87.0,,162.0,2021-13-40,,clothing
+1280,,unknown,52.0,,,2021-13-40,,CLOTHING
+1281,cheryl,,45.0,142.05,59.0,2018-09-11,ashley26@smith-wolf.org,electronics
+1282,lisa,,54.0,,,2020-09-17,,furniture
+1283,William Duncan,unknown,,197.9,47.0,2010-08-01,,electronics
+1284,Jeffrey,Male,,148.17,,2024-02-02,,Cloth ing
+1285,TINA,Female,100.0,34.22,,,,eLeCtrOnIcs
+1286,DIANA,unknown,,,56.0,,cookbrooke@chavez-casey.com,Electronics
+1287,Devin Ayers,,,,108.0,invalid_date,,Electronics
+1288,,female,75.0,,,,,clothing
+1289,paul,MALE,30.0,70.12,28.0,invalid_date,,ClOThIng
+1290,aaron,unknown,,,100.0,2005-09-05,,furniture
+1291,krystal,Female,75.0,313.32,,,,Electronics
+1292,Amanda Sandoval,,20.0,494.24,148.0,,,electronics
+1293,ANNE,unknown,66.0,131.04,82.0,invalid_date,ggreen@dunn-hernandez.net,ClOThIng
+1294,stacey,MALE,15.0,165.02,,2024-12-05,elizabeththomas@morton-barber.info,Cloth ing
+1295,Kelsey,Male,,93.48,72.0,,,Electronics
+1296,,,56.0,223.15,131.0,2014-02-23,mmiddleton@martin-martinez.com,eLeCtrOnIcs
+1297,JOSE,,83.0,98.26,,2021-13-40,,CLOTHING
+1298,Ashley,female,24.0,181.1,,invalid_date,lroberts@hotmail.com,clothing
+1299,Jesus Taylor,Male,,,,2021-13-40,victor21@hotmail.com,furnITure
+1300,Erica,,,230.27,,2025-02-25,,ClOThIng
+1301,,unknown,,,35.0,2023-06-09,,furniture
+1302,Taylor,MALE,22.0,-35.85,115.0,2021-08-07,,electronics
+1303,Heather,female,85.0,,101.0,invalid_date,,electronics
+1304,,female,40.0,315.98,54.0,2017-06-02,imorgan@garcia.com,clothing
+1305,,Female,59.0,309.2,,2022-10-27,,furnITure
+1306,Gary Carroll,MALE,,108.84,142.0,2020-02-10,,furnITure
+1307,Julia Fisher,unknown,79.0,375.45,118.0,2023-11-17,,eLeCtrOnIcs
+1308,SCOTT,,59.0,,115.0,2021-13-40,,CLOTHING
+1309,JOSEPH,unknown,59.0,294.15,,,,CLOTHING
+1310,sarah,unknown,12.0,38.78,145.0,2021-13-40,,Cloth ing
+1311,David Miles,female,24.0,,3.0,,jonathanbrooks@gmail.com,furnITure
+1312,Christopher Conner,unknown,34.0,116.63,166.0,invalid_date,,clothing
+1313,mary,MALE,21.0,327.97,,2021-03-17,ealvarado@yahoo.com,Electronics
+1314,JOSHUA,unknown,,267.07,,2021-13-40,,Electronics
+1315,Timothy Larson,MALE,80.0,141.36,194.0,2021-13-40,,furniture
+1316,Kenneth,MALE,72.0,,80.0,2023-06-10,,CLOTHING
+1317,,unknown,,,,2022-02-24,tlong@hotmail.com,Electronics
+1318,Ernest Edwards,female,47.0,149.58,,2021-06-12,,Cloth ing
+1319,kelli,unknown,,379.25,73.0,2021-13-40,,clothing
+1320,Joanna,MALE,,412.4,83.0,2021-03-30,,furnITure
+1321,Steven,Female,,,,2021-13-40,,Cloth ing
+1322,Nicole Rivera DDS,Male,26.0,38.94,,,,electronics
+1323,,unknown,37.0,177.17,87.0,2021-13-40,leahconner@yahoo.com,Cloth ing
+1324,Mrs. Tracy Flynn,unknown,99.0,145.28,33.0,2022-05-22,,furnITure
+1325,,,19.0,12.37,107.0,invalid_date,,furniture
+1326,Eric,Female,85.0,49.7,88.0,,,electronics
+1327,ANGELA,MALE,35.0,318.91,173.0,2023-04-18,todd95@yahoo.com,Electronics
+1328,michael,MALE,100.0,59.2,120.0,2021-13-40,,clothing
+1329,PHILLIP,,34.0,108.11,62.0,2021-13-40,,furnITure
+1330,kimberly,Female,,,,,,electronics
+1331,,,24.0,19.12,,,,ClOThIng
+1332,victoria,unknown,,416.75,11.0,2023-04-20,timothymorton@hotmail.com,furniture
+1333,Jonathan Woodard,,,,200.0,invalid_date,xevans@gmail.com,furnITure
+1334,tiffany,Female,97.0,338.98,160.0,,,Electronics
+1335,Heidi,,,46.64,,2009-07-10,,CLOTHING
+1336,Steve Baker,female,,,134.0,invalid_date,rebeccacoleman@gmail.com,Electronics
+1337,Debra,unknown,66.0,94.32,151.0,2012-07-28,,Electronics
+1338,jessica,MALE,,,159.0,2023-04-24,kevin75@johnson.com,furnITure
+1339,Linda,Male,73.0,188.68,104.0,2021-02-12,,furnITure
+1340,scott,Male,80.0,199.4,,2016-05-08,kevin41@gmail.com,furniture
+1341,ELLEN,Female,,220.62,76.0,,kimberlymurphy@yahoo.com,furnITure
+1342,Joseph Patel,unknown,69.0,90.82,,2020-12-31,,electronics
+1343,LAURA,Female,70.0,,10.0,2010-01-26,robert45@mathews-robertson.org,CLOTHING
+1344,,,13.0,,-5.0,2002-12-08,,clothing
+1345,kara,unknown,81.0,,70.0,2025-07-11,deanjonathan@solis.com,clothing
+1346,,Female,82.0,85.74,,,hannah97@gmail.com,CLOTHING
+1347,Michael Reyes,,,138.49,,invalid_date,steven53@welch.biz,CLOTHING
+1348,WILLIAM,unknown,54.0,244.53,85.0,2022-12-19,,ClOThIng
+1349,NICOLE,female,,432.75,17.0,2024-06-03,,eLeCtrOnIcs
+1350,,,,,150.0,,,Cloth ing
+1351,Jerome,Male,,104.25,,2012-07-02,,furnITure
+1352,Robin,Female,,103.42,157.0,2009-10-01,derricktrujillo@johnson-stevens.info,furnITure
+1353,Kevin,Male,22.0,246.67,139.0,invalid_date,,ClOThIng
+1354,karen,female,53.0,,13.0,2022-08-22,,furniture
+1355,Kathleen,MALE,41.0,,54.0,2022-10-03,,Electronics
+1356,CHERYL,female,30.0,,,invalid_date,,eLeCtrOnIcs
+1357,,,47.0,,,2022-12-12,,electronics
+1358,Barbara Gross,,53.0,,142.0,invalid_date,,electronics
+1359,,MALE,31.0,,25.0,,burnsvictoria@reed-parsons.com,furnITure
+1360,,unknown,99.0,59.65,88.0,invalid_date,sarahbanks@diaz-edwards.info,CLOTHING
+1361,DOROTHY,Female,,166.54,124.0,invalid_date,fieldsdaniel@hotmail.com,eLeCtrOnIcs
+1362,glen,MALE,,105.17,61.0,2000-05-21,,furniture
+1363,LEAH,Male,36.0,,171.0,2021-13-40,,electronics
+1364,Randy Phillips,female,62.0,140.57,126.0,2021-13-40,mduran@french-ellison.org,Cloth ing
+1365,Maria Cruz,MALE,60.0,,79.0,2020-02-26,,Cloth ing
+1366,,female,46.0,,-6.0,invalid_date,kellypeter@yahoo.com,CLOTHING
+1367,Julian Jones,Male,53.0,20.82,45.0,,carlos57@garcia-roberts.biz,clothing
+1368,James,Female,32.0,454.67,,,,eLeCtrOnIcs
+1369,,unknown,68.0,288.77,70.0,invalid_date,boyerandrew@warren.com,eLeCtrOnIcs
+1370,Brandon,Female,,-32.7,,2001-12-27,ashley70@garcia-johnson.com,clothing
+1371,Kyle,,53.0,166.89,,2020-09-01,seanmeyer@caldwell.com,furnITure
+1372,,Male,31.0,142.89,12.0,2022-01-15,owheeler@gmail.com,eLeCtrOnIcs
+1373,Katie,female,65.0,,126.0,2009-11-21,kelli23@riggs.com,furniture
+1374,Andrew Jones,female,55.0,443.52,,2002-07-27,,ClOThIng
+1375,monica,female,,,25.0,2010-01-06,,Cloth ing
+1376,amanda,unknown,33.0,17.81,196.0,,,Electronics
+1377,KEVIN,,,,89.0,2021-13-40,,furniture
+1378,Amanda Kim,,,,31.0,2024-02-06,,CLOTHING
+1379,Tammy,MALE,,95.41,30.0,2024-05-16,,electronics
+1380,Hannah Hicks,female,99.0,109.94,113.0,2005-08-10,,Cloth ing
+1381,Andrea,female,23.0,89.33,167.0,,,CLOTHING
+1382,laura,,,182.65,91.0,2001-06-18,,furniture
+1383,JASON,MALE,12.0,,,2024-07-27,,eLeCtrOnIcs
+1384,Juan Edwards,Male,,149.59,,2021-13-40,sheltondaniel@brooks-johnson.com,ClOThIng
+1385,Adam,Female,21.0,167.14,,2021-13-40,,furniture
+1386,Robert,unknown,72.0,,,2022-09-25,,CLOTHING
+1387,Sarah,female,58.0,88.48,,2023-07-15,,ClOThIng
+1388,Michelle,unknown,,146.07,101.0,2022-01-08,,eLeCtrOnIcs
+1389,Brian Escobar,Female,37.0,227.65,122.0,2025-10-22,,eLeCtrOnIcs
+1390,Megan Patton,female,89.0,291.46,199.0,,kaitlyn56@berry.net,furniture
+1391,Daniel,Female,14.0,479.7,1.0,invalid_date,,clothing
+1392,kerry,female,59.0,133.47,10.0,2000-05-21,,furnITure
+1393,george,female,,115.91,14.0,,ryandavid@jensen.com,CLOTHING
+1394,Michael Flores,,29.0,,16.0,,,CLOTHING
+1395,Jonathan Howard,,,14.97,178.0,invalid_date,ihenderson@harrison-merritt.com,electronics
+1396,,,,,199.0,2020-12-21,scott02@jensen-rivera.com,furniture
+1397,kimberly,female,69.0,,,invalid_date,,furniture
+1398,Robert Hamilton,MALE,,113.97,,invalid_date,,furnITure
+1399,Joshua,unknown,79.0,142.23,194.0,2021-13-40,,electronics
+1400,MICHAEL,,49.0,381.9,145.0,,danielcarey@gmail.com,Electronics
+1401,NATHAN,female,,-46.08,128.0,2021-13-40,,electronics
+1402,,unknown,84.0,231.32,193.0,2012-12-04,laurieholmes@nichols.com,Cloth ing
+1403,DON,Male,11.0,,155.0,invalid_date,,Electronics
+1404,,,49.0,,45.0,invalid_date,,furniture
+1405,Steven,MALE,31.0,,89.0,2021-13-40,,CLOTHING
+1406,Maria,unknown,29.0,,,2020-12-05,,eLeCtrOnIcs
+1407,sherry,unknown,22.0,6.4,,invalid_date,,Electronics
+1408,Robert,female,67.0,144.37,,,,electronics
+1409,Margaret,MALE,44.0,192.35,138.0,2014-04-05,,furniture
+1410,,,78.0,217.07,36.0,invalid_date,mariacampbell@yahoo.com,furniture
+1411,,Female,31.0,,16.0,,,furnITure
+1412,Tammy,female,23.0,-9.94,12.0,,,eLeCtrOnIcs
+1413,beth,MALE,25.0,178.42,,2014-02-16,,Cloth ing
+1414,Caleb,unknown,,57.21,,2023-10-12,,eLeCtrOnIcs
+1415,Paula Williams,,48.0,,56.0,2021-13-40,,electronics
+1416,,,15.0,-47.68,,2025-05-03,,clothing
+1417,Kendra Cuevas,MALE,,,135.0,2013-12-11,cwilliams@gonzales-lee.com,furniture
+1418,KAREN,unknown,56.0,-36.21,88.0,2006-07-07,gibsonbrendan@yahoo.com,electronics
+1419,douglas,,62.0,,,2021-13-40,todd25@nguyen.com,CLOTHING
+1420,todd,female,,,68.0,2022-05-22,,Electronics
+1421,Juan,MALE,,400.11,106.0,,,Electronics
+1422,,unknown,,,,invalid_date,,clothing
+1423,,unknown,25.0,145.82,156.0,2021-13-40,klewis@yahoo.com,electronics
+1424,,Male,,,7.0,,,electronics
+1425,,MALE,23.0,,,2021-13-40,,ClOThIng
+1426,Ryan Stevens,,18.0,191.42,124.0,,,clothing
+1427,Sarah,female,23.0,490.41,101.0,2007-02-01,,ClOThIng
+1428,JILL,unknown,30.0,187.4,-6.0,2021-13-40,jenniferclark@rojas.com,ClOThIng
+1429,Gabriel Roberts,MALE,,,146.0,2021-02-09,fsmith@molina-mueller.com,Cloth ing
+1430,Joshua Lynch,Male,53.0,5.94,,2011-09-27,,eLeCtrOnIcs
+1431,,unknown,17.0,395.48,21.0,2023-10-19,,Cloth ing
+1432,Loretta Taylor,MALE,57.0,179.87,,2016-11-15,patricia68@yahoo.com,clothing
+1433,Kyle,unknown,,,180.0,2023-01-04,,electronics
+1434,John Walker,,61.0,,,,sfritz@yahoo.com,furniture
+1435,,female,,,148.0,invalid_date,kevin25@ingram-brown.net,ClOThIng
+1436,GERALD,,33.0,,,2021-13-40,,furniture
+1437,,unknown,,429.71,186.0,invalid_date,,CLOTHING
+1438,Mackenzie Lee,MALE,74.0,79.73,67.0,,,Cloth ing
+1439,ELIZABETH,,88.0,152.72,,2021-11-07,,electronics
+1440,Renee,female,53.0,215.35,,2009-09-22,,electronics
+1441,tristan,,75.0,162.18,55.0,,rhood@choi.com,electronics
+1442,STEPHANIE,MALE,54.0,138.92,92.0,,,CLOTHING
+1443,ASHLEY,MALE,85.0,,112.0,2025-04-29,,electronics
+1444,,MALE,52.0,102.13,23.0,2020-01-25,antonio35@green-cardenas.net,Cloth ing
+1445,Kaitlin,Female,25.0,150.96,185.0,2021-13-40,,ClOThIng
+1446,,,67.0,426.54,122.0,invalid_date,,Electronics
+1447,BRYAN,MALE,52.0,,176.0,2021-13-40,whitegabriel@gmail.com,furniture
+1448,KRISTINA,,17.0,129.39,40.0,invalid_date,,Cloth ing
+1449,JASON,female,35.0,-5.75,99.0,2008-12-07,,Electronics
+1450,Cheryl Phillips,,67.0,184.79,98.0,2000-05-22,,eLeCtrOnIcs
+1451,NATALIE,MALE,,338.77,156.0,invalid_date,,CLOTHING
+1452,tiffany,Male,,469.85,,2022-06-05,,ClOThIng
+1453,Michael Bennett,Male,80.0,,97.0,,,eLeCtrOnIcs
+1454,michelle,Female,,102.09,164.0,2021-13-40,vickiemccormick@gmail.com,Electronics
+1455,gabriel,unknown,47.0,,,2022-04-30,,eLeCtrOnIcs
+1456,Johnny Weaver,female,68.0,,28.0,2021-13-40,,furnITure
+1457,Troy Sims,unknown,26.0,,,2022-08-09,,Electronics
+1458,madeline,,,486.2,89.0,2016-07-25,derek28@gmail.com,ClOThIng
+1459,Aaron Stephenson,Male,52.0,,101.0,2021-13-40,katherinemejia@hotmail.com,CLOTHING
+1460,DANA,MALE,59.0,408.21,,invalid_date,willisjeremy@hamilton-glass.com,furnITure
+1461,CYNTHIA,,35.0,,28.0,,,clothing
+1462,Kyle,unknown,37.0,51.41,,2021-13-40,,Cloth ing
+1463,Lisa Bailey,MALE,,169.64,,2021-13-40,,Electronics
+1464,ANDREW,MALE,74.0,,,invalid_date,,clothing
+1465,Rebecca,MALE,35.0,24.98,84.0,2020-04-23,,Cloth ing
+1466,ANGELA,female,,,,2005-12-21,mirandarodriguez@gmail.com,furniture
+1467,joshua,female,22.0,45.37,70.0,2019-08-13,,clothing
+1468,Regina,unknown,44.0,,,2011-10-08,ejohnson@hotmail.com,furnITure
+1469,David,MALE,20.0,-43.23,89.0,2021-04-07,,eLeCtrOnIcs
+1470,thomas,Female,69.0,23.59,,,,furnITure
+1471,CASSANDRA,,,159.65,95.0,2021-13-40,nolandale@lowe.com,furnITure
+1472,DUSTIN,Male,77.0,,52.0,,barrettrobyn@hotmail.com,clothing
+1473,John Jackson,unknown,53.0,,,2021-12-15,,clothing
+1474,Vanessa,,58.0,271.79,103.0,2021-13-40,,eLeCtrOnIcs
+1475,Dakota Jones,,20.0,-30.15,,2022-09-20,,clothing
+1476,KIMBERLY,MALE,39.0,-14.46,,invalid_date,,ClOThIng
+1477,Karla,,,27.28,151.0,2023-07-18,karazamora@gmail.com,electronics
+1478,mark,unknown,58.0,148.62,47.0,,,eLeCtrOnIcs
+1479,William Melendez,Female,48.0,-45.74,40.0,2007-03-06,,Electronics
+1480,thomas,female,24.0,103.14,197.0,2020-12-28,,clothing
+1481,,,42.0,387.81,173.0,2024-02-26,,electronics
+1482,,MALE,80.0,,26.0,2021-06-10,,electronics
+1483,colton,,,,92.0,,,electronics
+1484,Kimberly,,44.0,170.88,,invalid_date,,CLOTHING
+1485,DAVID,Female,,496.16,,invalid_date,,Electronics
+1486,Michelle,MALE,53.0,411.84,10.0,,,electronics
+1487,Monica Hutchinson,female,,269.02,,2021-01-25,,Electronics
+1488,Casey,,56.0,-35.86,177.0,2020-08-01,,ClOThIng
+1489,RHONDA,unknown,,472.89,71.0,2024-08-09,,furniture
+1490,KATRINA,Male,,386.28,100.0,2025-02-04,,electronics
+1491,Allen Vaughan,female,55.0,178.06,68.0,2011-07-12,cynthiahester@lawrence.net,eLeCtrOnIcs
+1492,Rebecca Petersen,unknown,56.0,19.53,52.0,,,eLeCtrOnIcs
+1493,Mr. David Weber,MALE,77.0,258.48,,2020-03-13,,Electronics
+1494,Jacob Dawson,,77.0,321.04,,invalid_date,,CLOTHING
+1495,CHRISTOPHER,female,31.0,143.49,144.0,invalid_date,,furniture
+1496,Patricia Harmon,MALE,,39.14,,,cherylmendoza@beck.com,Electronics
+1497,Michael,Male,,,141.0,invalid_date,,furniture
+1498,monica,unknown,34.0,131.11,147.0,2021-13-40,,CLOTHING
+1499,Roger Johnson,unknown,,71.84,73.0,,,furnITure
+1500,samantha,,67.0,,168.0,2021-13-40,,electronics
+1501,Christina Woodward,female,61.0,103.36,,invalid_date,tracyjones@hotmail.com,furniture
+1502,isabella,Male,78.0,,12.0,2023-04-04,,Cloth ing
+1503,Melissa Ramirez,MALE,82.0,,81.0,2016-07-07,,furniture
+1504,Lisa,Male,72.0,38.02,65.0,,,Electronics
+1505,,MALE,86.0,170.1,192.0,,,Cloth ing
+1506,Michael Smith,Female,44.0,14.74,,2024-04-23,,CLOTHING
+1507,Michael,unknown,,360.68,2.0,2021-13-40,,furnITure
+1508,john,unknown,73.0,146.5,21.0,2021-13-40,,CLOTHING
+1509,ALEX,MALE,37.0,233.72,160.0,invalid_date,,Cloth ing
+1510,david,female,,141.18,,2024-04-29,,CLOTHING
+1511,COURTNEY,Male,18.0,49.92,,invalid_date,,furnITure
+1512,justin,MALE,,40.14,,2021-13-40,,CLOTHING
+1513,DONNA,Male,47.0,131.67,,invalid_date,michelescott@watson.com,CLOTHING
+1514,Megan,female,27.0,340.85,,2014-11-06,,eLeCtrOnIcs
+1515,PATRICIA,Male,,,71.0,2021-13-40,,clothing
+1516,faith,,31.0,3.14,,,,Electronics
+1517,Claudia,female,34.0,115.71,29.0,2023-07-19,bdudley@yahoo.com,clothing
+1518,Kerry Sanders,Male,70.0,340.84,,invalid_date,,ClOThIng
+1519,Ronald,female,63.0,484.41,,2004-01-07,,Electronics
+1520,Laurie Moore,unknown,,,12.0,2020-07-29,christopherpatrick@yahoo.com,furnITure
+1521,stephanie,Female,27.0,107.42,,2014-04-12,tyler54@robinson-gonzalez.com,Cloth ing
+1522,,unknown,52.0,298.78,135.0,,chris10@beck.com,furnITure
+1523,,unknown,31.0,452.76,115.0,2022-07-02,destinyhernandez@gmail.com,CLOTHING
+1524,Claudia Stuart,Male,,487.11,133.0,,,Cloth ing
+1525,SARAH,Female,59.0,402.91,129.0,invalid_date,ruizjoseph@hotmail.com,electronics
+1526,,female,53.0,,127.0,2006-10-08,,electronics
+1527,Robert,MALE,,,186.0,2021-05-14,,ClOThIng
+1528,Luke Molina,female,,386.31,137.0,,,furniture
+1529,jeffrey,female,,,199.0,invalid_date,,furniture
+1530,Michelle,female,86.0,,,,,furnITure
+1531,Todd Kennedy,MALE,100.0,,6.0,2023-12-31,ngraves@yahoo.com,furniture
+1532,CHRISTY,MALE,88.0,16.77,26.0,invalid_date,,clothing
+1533,TRAVIS,unknown,,144.07,3.0,2021-13-40,,eLeCtrOnIcs
+1534,,,31.0,,154.0,2021-13-40,,Electronics
+1535,Denise,,67.0,,,,,clothing
+1536,Gloria,,93.0,,70.0,,,Electronics
+1537,Nicholas,female,45.0,299.52,,invalid_date,,clothing
+1538,RALPH,Female,18.0,192.52,200.0,2020-10-09,,furniture
+1539,leah,,20.0,265.02,5.0,invalid_date,alexander12@brewer.com,Electronics
+1540,Jacqueline,unknown,82.0,77.85,,2021-13-40,,ClOThIng
+1541,Jennifer Reyes,unknown,41.0,,75.0,2019-04-28,,Cloth ing
+1542,ASHLEY,unknown,27.0,64.34,135.0,2021-13-40,,ClOThIng
+1543,Jasmine Barr,female,79.0,,57.0,,,Cloth ing
+1544,Amy Davenport,Male,34.0,182.87,2.0,2004-04-14,,Electronics
+1545,kristen,unknown,,,18.0,2000-06-28,,furniture
+1546,Megan,Male,41.0,-34.52,54.0,invalid_date,nicole68@suarez-henderson.com,electronics
+1547,Samantha,,,,158.0,,,ClOThIng
+1548,Kathleen Roberts,unknown,,,,2021-13-40,,furnITure
+1549,,,13.0,44.18,167.0,2021-13-40,christine62@vargas.biz,furniture
+1550,EDWARD,,,331.07,,,barbararasmussen@hotmail.com,CLOTHING
+1551,Brad Dillon,,48.0,286.66,41.0,invalid_date,christopher06@gardner.net,eLeCtrOnIcs
+1552,Duane Martin,Female,33.0,,,,rhondamedina@gmail.com,furnITure
+1553,Kristina Hayes,unknown,,,,2012-07-12,rcasey@gmail.com,CLOTHING
+1554,paula,,77.0,-44.58,121.0,2021-13-40,,Cloth ing
+1555,joshua,Male,19.0,,161.0,invalid_date,cmills@daugherty.biz,furniture
+1556,margaret,unknown,59.0,183.7,,invalid_date,,electronics
+1557,Cindy,female,74.0,476.79,174.0,,,eLeCtrOnIcs
+1558,KEVIN,unknown,54.0,315.16,6.0,,,ClOThIng
+1559,Kelly Williams,unknown,30.0,132.19,,2002-02-11,,Electronics
+1560,Geoffrey Craig,,71.0,311.46,,2021-13-40,teresabennett@newman.info,furnITure
+1561,Wendy Cisneros,female,11.0,-38.27,93.0,,,ClOThIng
+1562,,unknown,,179.39,,2025-06-25,,electronics
+1563,eric,unknown,,-22.04,148.0,2021-12-12,,Electronics
+1564,John Hamilton,unknown,51.0,196.81,96.0,invalid_date,,Electronics
+1565,Robert,Male,14.0,,,2004-12-24,bakeranthony@thomas.org,furniture
+1566,SUSAN,Male,72.0,128.25,154.0,2023-03-08,,eLeCtrOnIcs
+1567,Alexander Jordan,female,29.0,6.19,,2022-09-23,,clothing
+1568,amanda,MALE,14.0,415.21,,invalid_date,,Electronics
+1569,Tammy,unknown,54.0,181.4,148.0,,jacksonmeagan@yahoo.com,Electronics
+1570,,unknown,28.0,,76.0,2011-04-15,,Electronics
+1571,julia,Male,34.0,9.05,83.0,invalid_date,,clothing
+1572,Chad,MALE,,99.96,,,lawrencejohnson@cunningham-thompson.com,clothing
+1573,Curtis,unknown,,120.66,,2024-08-24,,eLeCtrOnIcs
+1574,LEE,female,50.0,,122.0,invalid_date,,furnITure
+1575,JESSE,Male,96.0,-29.73,,2021-07-14,,electronics
+1576,,MALE,58.0,145.85,165.0,,,eLeCtrOnIcs
+1577,ANDREW,,99.0,334.35,,2018-03-07,,furnITure
+1578,kayla,,67.0,,136.0,invalid_date,,furnITure
+1579,Bill Johnson,,,-35.07,120.0,2005-08-18,,electronics
+1580,ashley,MALE,82.0,13.7,49.0,2020-09-24,,furniture
+1581,Janice Jones,MALE,76.0,36.44,-9.0,,,eLeCtrOnIcs
+1582,Chelsea Coleman,,74.0,81.73,175.0,,megancaldwell@harris.biz,eLeCtrOnIcs
+1583,Melissa,Female,,391.3,40.0,2024-05-17,sean67@yahoo.com,ClOThIng
+1584,MARK,female,,,38.0,2003-07-09,award@perkins.com,electronics
+1585,julian,unknown,,205.32,134.0,invalid_date,,CLOTHING
+1586,Shirley,MALE,,291.3,,,jacqueline15@bailey.biz,furniture
+1587,,female,,-39.22,175.0,,ewilliams@barrett.org,furnITure
+1588,LORI,,85.0,155.79,4.0,invalid_date,,electronics
+1589,JAMES,Female,79.0,404.86,,2009-06-12,,eLeCtrOnIcs
+1590,Susan Miller,MALE,46.0,430.09,112.0,2009-06-03,,Cloth ing
+1591,Amy Bradley,Male,,146.14,32.0,,gwilliams@mccormick.com,CLOTHING
+1592,,unknown,99.0,161.24,,2020-08-06,,electronics
+1593,,Male,,-4.34,155.0,,,ClOThIng
+1594,Tina Stanley,unknown,21.0,,,2021-13-40,bruce23@bennett.info,Cloth ing
+1595,robert,female,47.0,,,2025-05-23,,clothing
+1596,linda,female,,,,2021-13-40,robert78@hotmail.com,electronics
+1597,ANTHONY,MALE,,380.4,65.0,2000-11-28,osantos@jones.biz,Cloth ing
+1598,,unknown,,,121.0,2023-01-06,,CLOTHING
+1599,Misty Parker,female,,209.39,,2022-04-21,,electronics
+1600,teresa,MALE,74.0,,,2021-13-40,,eLeCtrOnIcs
+1601,,unknown,54.0,,29.0,2021-13-40,,ClOThIng
+1602,,unknown,48.0,354.1,177.0,,ocombs@hotmail.com,electronics
+1603,Amy Martinez,MALE,,,101.0,2020-12-23,kevinsmith@gmail.com,clothing
+1604,,MALE,23.0,,161.0,,,eLeCtrOnIcs
+1605,,female,44.0,159.9,,2021-13-40,curtisreyes@booker-knox.biz,clothing
+1606,SAMANTHA,,42.0,33.36,-9.0,,,electronics
+1607,Michael,MALE,,,,,fwarner@gmail.com,CLOTHING
+1608,ryan,female,89.0,,,2017-05-17,,ClOThIng
+1609,justin,unknown,,,125.0,,,clothing
+1610,Jasmine,unknown,60.0,15.14,157.0,,alexandra34@hotmail.com,eLeCtrOnIcs
+1611,,unknown,98.0,,178.0,2021-13-40,,ClOThIng
+1612,RANDY,Female,64.0,221.08,,2021-13-40,,eLeCtrOnIcs
+1613,ernest,female,97.0,317.26,,2020-08-02,,electronics
+1614,,,,40.71,188.0,,,electronics
+1615,Christine,MALE,21.0,-9.08,,invalid_date,,furnITure
+1616,William,Female,18.0,,,2024-12-20,,CLOTHING
+1617,andrea,unknown,63.0,,,2024-07-22,,eLeCtrOnIcs
+1618,Stephanie Aguirre,unknown,28.0,53.47,,2021-13-40,nancy21@jones-howell.com,CLOTHING
+1619,,female,22.0,473.44,,2021-13-40,,Electronics
+1620,ANTHONY,MALE,65.0,,,invalid_date,rmccoy@hotmail.com,ClOThIng
+1621,Jon,,59.0,,118.0,2021-04-12,,electronics
+1622,David,MALE,,27.78,81.0,2021-13-40,,furniture
+1623,Cody Perez,Female,99.0,,93.0,2006-03-23,,ClOThIng
+1624,,female,80.0,162.23,56.0,,reynoldshunter@gmail.com,ClOThIng
+1625,Nicholas,female,31.0,-21.13,,,vellis@gmail.com,Cloth ing
+1626,phyllis,,74.0,,,,,CLOTHING
+1627,victoria,,35.0,,,2013-10-02,pbrooks@mccormick-smith.net,Cloth ing
+1628,,female,24.0,89.4,77.0,2025-09-27,freemandenise@yahoo.com,eLeCtrOnIcs
+1629,DANIEL,female,,,151.0,invalid_date,,ClOThIng
+1630,jennifer,MALE,,,80.0,2021-13-40,dsimpson@yahoo.com,Electronics
+1631,Sarah Wilcox,MALE,78.0,107.4,198.0,2020-09-05,,electronics
+1632,NICHOLAS,female,18.0,,,,,Cloth ing
+1633,Selena Ramirez,,48.0,102.57,170.0,2021-12-18,,eLeCtrOnIcs
+1634,david,Male,,452.38,,invalid_date,,eLeCtrOnIcs
+1635,Jamie Wilkerson,,59.0,-48.15,,2023-07-01,,ClOThIng
+1636,,unknown,,265.82,,invalid_date,kennethrobinson@acevedo.biz,Cloth ing
+1637,Robert Leonard,unknown,,146.25,,2011-03-18,michelleroman@cruz.com,CLOTHING
+1638,,MALE,59.0,,,,zchaney@gmail.com,clothing
+1639,PHILIP,MALE,60.0,272.23,,2021-13-40,,Cloth ing
+1640,Lori Alvarez,,,198.36,,2013-07-06,,Cloth ing
+1641,jean,,,55.78,136.0,,jonesbrent@holden-roth.org,Cloth ing
+1642,Laura,unknown,94.0,88.61,19.0,,mharris@gmail.com,Electronics
+1643,,,,56.15,101.0,2006-12-10,,Cloth ing
+1644,john,,78.0,,25.0,2015-06-05,,eLeCtrOnIcs
+1645,Stacey,female,66.0,93.24,155.0,2021-08-27,allisonmiller@perry.org,clothing
+1646,HEATHER,unknown,63.0,61.23,,2021-13-40,sgraham@berg.com,Cloth ing
+1647,Evelyn Gordon,,80.0,21.09,195.0,invalid_date,,electronics
+1648,Adrienne,Male,26.0,198.11,62.0,2021-08-27,larajason@gmail.com,furnITure
+1649,CHRISTOPHER,Male,,,,invalid_date,,furnITure
+1650,Justin,MALE,,155.54,104.0,2005-10-31,,electronics
+1651,Michael Simpson,MALE,,17.18,186.0,2021-13-40,,furniture
+1652,CHRISTINA,unknown,57.0,149.15,,2021-13-40,,ClOThIng
+1653,JESSICA,Male,,,73.0,2021-13-40,ksexton@yahoo.com,furnITure
+1654,james,female,,421.21,24.0,invalid_date,staceyosborne@flowers.net,electronics
+1655,donald,,56.0,155.88,61.0,2021-13-40,,eLeCtrOnIcs
+1656,ann,,37.0,453.39,,2022-12-12,,Electronics
+1657,Patrick Austin,Female,,149.67,,2003-03-11,,ClOThIng
+1658,Sarah Hansen,female,29.0,280.2,164.0,,,Cloth ing
+1659,Micheal,,73.0,169.78,,2025-09-19,,eLeCtrOnIcs
+1660,thomas,female,79.0,,,,,furnITure
+1661,LINDA,,,31.26,71.0,2021-13-40,,furnITure
+1662,,MALE,77.0,,,2021-13-40,,electronics
+1663,Roberto Watson,,58.0,,,2021-13-40,,furnITure
+1664,Jesse,unknown,75.0,,136.0,2024-03-14,,Cloth ing
+1665,Kathleen,Female,18.0,-48.78,184.0,2024-11-20,,furnITure
+1666,Shawn,,,,20.0,invalid_date,,furnITure
+1667,Morgan,Male,65.0,,65.0,,lucastammy@hotmail.com,CLOTHING
+1668,Leah,unknown,74.0,,67.0,2021-13-40,,furniture
+1669,jay,,,,,2025-07-27,,furnITure
+1670,natasha,unknown,66.0,,69.0,2024-07-14,,electronics
+1671,Shelby Mann,MALE,73.0,-11.42,38.0,2022-11-20,sarah46@chan.com,furniture
+1672,ALEXIS,MALE,,77.26,,invalid_date,pgarcia@hotmail.com,eLeCtrOnIcs
+1673,Robert Castillo,MALE,73.0,261.04,112.0,invalid_date,,CLOTHING
+1674,,MALE,19.0,-4.79,173.0,2016-05-19,traceytrujillo@hotmail.com,Electronics
+1675,Aaron,female,53.0,,17.0,invalid_date,,furnITure
+1676,Michael,MALE,60.0,166.95,48.0,,,eLeCtrOnIcs
+1677,,,26.0,,133.0,2021-13-40,,electronics
+1678,Willie,unknown,90.0,,,2024-10-06,erica09@mcguire.net,eLeCtrOnIcs
+1679,MICHELLE,,56.0,48.67,,2022-01-26,,electronics
+1680,Meghan,Female,63.0,456.51,,2021-13-40,,clothing
+1681,ELIZABETH,,,492.7,,,,Cloth ing
+1682,Mrs. Christina Hall MD,,,431.52,173.0,,,clothing
+1683,Kenneth Martinez,,45.0,44.44,1.0,,,ClOThIng
+1684,,,65.0,309.74,,invalid_date,todd73@gmail.com,CLOTHING
+1685,Kevin Black,MALE,,11.29,159.0,2023-12-02,michaelmartinez@gmail.com,CLOTHING
+1686,JESSICA,female,19.0,156.61,149.0,2021-13-40,,electronics
+1687,,Female,48.0,,,invalid_date,,furniture
+1688,corey,MALE,18.0,,121.0,2021-13-40,james50@rivas.com,CLOTHING
+1689,MARK,Female,82.0,16.2,,,reedchelsea@holland-knight.com,Cloth ing
+1690,ROBERT,MALE,,92.53,,2020-04-23,,Electronics
+1691,Isabella,female,34.0,165.82,177.0,,,Electronics
+1692,JOSHUA,MALE,46.0,,,2024-08-20,,CLOTHING
+1693,Corey,female,,,36.0,,,Cloth ing
+1694,William Cervantes,MALE,,,,2023-07-22,,furniture
+1695,sandra,MALE,,129.54,,invalid_date,potterrobert@hartman.com,ClOThIng
+1696,willie,,54.0,-49.99,87.0,,pearsonthomas@sampson.com,ClOThIng
+1697,Garrett,,95.0,,82.0,invalid_date,,clothing
+1698,Nicholas,MALE,24.0,,14.0,2021-13-40,,Cloth ing
+1699,Jesse,unknown,,,117.0,,,electronics
+1700,David Carpenter,MALE,92.0,-20.12,34.0,2021-13-40,,furniture
+1701,Jerry Smith,,45.0,,-4.0,2021-13-40,dparsons@logan-butler.com,Cloth ing
+1702,Catherine,unknown,49.0,16.3,126.0,,vsanford@hotmail.com,Electronics
+1703,,female,,,,invalid_date,,furniture
+1704,Anthony Fuller,female,96.0,172.77,168.0,invalid_date,hoffmanjessica@hill.com,Cloth ing
+1705,,Male,92.0,444.98,,2021-03-13,,Electronics
+1706,Karen Ramirez,Female,30.0,233.33,,2023-02-15,ashleedelgado@james.net,Electronics
+1707,barbara,unknown,10.0,,176.0,2005-07-30,,furnITure
+1708,brandy,unknown,52.0,,113.0,invalid_date,tdickson@gmail.com,eLeCtrOnIcs
+1709,Erica,,50.0,197.27,139.0,2024-08-31,matthewrubio@mora.biz,clothing
+1710,daniel,female,54.0,48.74,32.0,2023-05-08,,eLeCtrOnIcs
+1711,Julia Robertson,MALE,45.0,,77.0,2006-08-22,qbartlett@yahoo.com,Electronics
+1712,Amanda,,71.0,18.51,,2022-01-24,,clothing
+1713,Alejandra,,66.0,122.69,5.0,2002-02-22,,Cloth ing
+1714,,MALE,20.0,60.93,,2023-10-10,julie73@hotmail.com,Electronics
+1715,RENEE,MALE,,424.85,181.0,2002-06-12,,electronics
+1716,james,female,79.0,85.71,35.0,,tammy66@tran-jimenez.org,CLOTHING
+1717,Gloria,,88.0,21.01,,invalid_date,russellhutchinson@lewis-hudson.com,furnITure
+1718,christine,unknown,,111.57,,,bryansanders@moore-neal.org,eLeCtrOnIcs
+1719,steve,unknown,,,36.0,2021-13-40,,furniture
+1720,,MALE,,140.92,142.0,2020-09-18,ejohnson@howell.com,CLOTHING
+1721,CHRISTINE,MALE,27.0,107.25,63.0,2000-02-16,,CLOTHING
+1722,Nancy George,MALE,28.0,335.14,75.0,2001-02-01,,furniture
+1723,Melissa,Female,,,,invalid_date,,electronics
+1724,anthony,,,,,2021-13-40,,clothing
+1725,Wesley,MALE,,105.05,38.0,2004-11-29,,Cloth ing
+1726,,,69.0,260.91,196.0,,harringtondevin@garza.com,electronics
+1727,,Female,,,158.0,2021-13-40,,eLeCtrOnIcs
+1728,Gail,,26.0,-47.67,-5.0,invalid_date,,electronics
+1729,Jack,MALE,66.0,,72.0,2021-13-40,,eLeCtrOnIcs
+1730,Curtis Santiago,Male,,,2.0,invalid_date,,electronics
+1731,robert,Female,21.0,-21.94,3.0,2021-13-40,,Cloth ing
+1732,scott,,80.0,133.39,187.0,2021-13-40,,Cloth ing
+1733,john,MALE,47.0,53.48,,invalid_date,,electronics
+1734,Angela,MALE,,196.38,107.0,invalid_date,gbowman@yahoo.com,eLeCtrOnIcs
+1735,MICHELE,MALE,53.0,,111.0,2024-10-27,,clothing
+1736,Kimberly Mitchell,MALE,84.0,140.6,,,brian16@davidson-novak.com,Cloth ing
+1737,Carrie Ross,MALE,88.0,,45.0,2024-10-04,,eLeCtrOnIcs
+1738,,,68.0,390.98,135.0,2025-06-04,carlosjackson@yahoo.com,clothing
+1739,Robert Chambers,unknown,,,,2007-08-04,,electronics
+1740,,female,30.0,,,,andrezavala@schneider.com,furnITure
+1741,Carla Alvarez,MALE,,,,2021-13-40,,eLeCtrOnIcs
+1742,,Male,,,161.0,2023-11-26,,clothing
+1743,dana,unknown,92.0,307.23,109.0,2022-11-29,powellrenee@mercado-robinson.net,electronics
+1744,Larry Chambers,female,,,134.0,invalid_date,,furnITure
+1745,marcus,female,,42.92,39.0,2014-04-11,,ClOThIng
+1746,Jose,unknown,,,182.0,2021-13-40,,Electronics
+1747,JAMES,Female,18.0,89.02,194.0,2021-13-40,,eLeCtrOnIcs
+1748,Joseph,MALE,43.0,,1.0,2021-03-22,,Cloth ing
+1749,Daniel,MALE,73.0,0.13,41.0,2021-13-40,,ClOThIng
+1750,George,Male,,-1.46,,invalid_date,,ClOThIng
+1751,Amber Santos,Male,,,94.0,2024-04-06,,eLeCtrOnIcs
+1752,,Male,,,92.0,,christophergardner@hotmail.com,electronics
+1753,LORI,unknown,15.0,121.44,,2009-12-30,joyhernandez@charles.info,CLOTHING
+1754,James Johnson,female,,,,invalid_date,jgreen@fischer.com,Cloth ing
+1755,,MALE,,-42.89,140.0,2016-11-02,,furniture
+1756,KELSEY,MALE,28.0,,,2021-11-09,michaelpatrick@yahoo.com,Electronics
+1757,billy,MALE,63.0,,,,parkermark@young.org,eLeCtrOnIcs
+1758,Alicia Black,,99.0,67.8,165.0,invalid_date,,furnITure
+1759,michael,,,,127.0,2021-13-40,,clothing
+1760,COLLEEN,Female,43.0,-42.98,126.0,2003-02-20,russelldanielle@gmail.com,ClOThIng
+1761,Charles,unknown,94.0,100.83,197.0,2021-11-19,karen58@yahoo.com,clothing
+1762,david,female,,93.77,168.0,2021-01-13,john10@yahoo.com,clothing
+1763,,,,,,invalid_date,,electronics
+1764,,female,,358.34,,2019-08-08,,CLOTHING
+1765,destiny,Male,76.0,,,,carrollnancy@peterson.com,Cloth ing
+1766,,Female,91.0,-36.45,2.0,2021-13-40,,eLeCtrOnIcs
+1767,CINDY,unknown,,,,2022-02-16,hawkinswilliam@lee-allen.com,furniture
+1768,jonathan,unknown,93.0,,,2020-05-24,,furniture
+1769,BRETT,Male,26.0,,25.0,2021-13-40,rachelgonzalez@obrien-james.net,eLeCtrOnIcs
+1770,angela,female,72.0,181.21,148.0,,huntthomas@moore.com,electronics
+1771,CINDY,female,,139.4,114.0,invalid_date,,furnITure
+1772,Gail Santiago,Male,,158.24,-7.0,2021-13-40,,CLOTHING
+1773,Lori,Female,24.0,,75.0,2021-13-40,,furniture
+1774,ricky,MALE,29.0,-21.2,80.0,2021-11-26,hunterfloyd@fletcher.biz,ClOThIng
+1775,Kelly Stafford,female,,412.99,161.0,2020-12-22,amandahicks@hotmail.com,clothing
+1776,ELIZABETH,Male,,17.82,114.0,,,furniture
+1777,pedro,Male,91.0,,8.0,2015-10-13,,furnITure
+1778,kelli,MALE,,25.72,141.0,2021-13-40,christopherfuentes@juarez-morgan.com,Electronics
+1779,Richard,female,60.0,52.89,86.0,2025-06-24,marcuslove@yahoo.com,Electronics
+1780,,,65.0,-35.22,115.0,2020-05-24,,clothing
+1781,,MALE,83.0,,,2021-12-19,,Cloth ing
+1782,crystal,Male,36.0,130.17,,invalid_date,jennifer23@murray-newman.com,electronics
+1783,Greg Hunter,MALE,,113.0,91.0,2010-11-07,,eLeCtrOnIcs
+1784,,unknown,,49.7,196.0,,,ClOThIng
+1785,,,,151.03,44.0,2011-04-08,pachecogabriel@aguilar-gilbert.net,electronics
+1786,Ian,,,134.56,196.0,invalid_date,,CLOTHING
+1787,Robert Powers,unknown,28.0,126.25,,,,furniture
+1788,christopher,female,96.0,,24.0,,leonardhenry@hotmail.com,furnITure
+1789,tiffany,female,61.0,144.86,,2021-13-40,graveskatie@lane.com,Electronics
+1790,george,MALE,,142.63,144.0,2021-13-40,todd91@gmail.com,clothing
+1791,DANIEL,MALE,74.0,185.44,159.0,2021-13-40,,ClOThIng
+1792,Kimberly Cruz,female,32.0,288.17,87.0,invalid_date,taylorwayne@hotmail.com,electronics
+1793,Stefanie Fisher,Male,43.0,82.59,,2021-13-40,,Cloth ing
+1794,,,87.0,173.43,164.0,2021-10-23,hmalone@duncan.biz,eLeCtrOnIcs
+1795,beth,female,49.0,-17.9,155.0,2011-02-10,,Electronics
+1796,JOHN,,27.0,46.03,57.0,2002-09-06,,furnITure
+1797,angel,MALE,29.0,301.21,73.0,invalid_date,,furniture
+1798,Jeanne Griffith,,,,-5.0,invalid_date,scottreyes@hotmail.com,Cloth ing
+1799,,MALE,28.0,62.14,124.0,2011-01-26,,Cloth ing
+1800,Elizabeth,unknown,58.0,486.79,170.0,2011-04-29,limary@church.net,ClOThIng
+1801,nicholas,female,43.0,111.46,82.0,2021-08-04,,Cloth ing
+1802,ANNE,unknown,56.0,274.44,17.0,2021-13-40,troymartinez@olson-cruz.org,Electronics
+1803,Christopher,MALE,,,,2021-13-40,,electronics
+1804,,MALE,,170.15,104.0,,,furniture
+1805,,MALE,80.0,465.98,,2022-11-05,mcintoshnicole@barnes-bennett.com,Cloth ing
+1806,,unknown,48.0,149.75,173.0,,,ClOThIng
+1807,JAMES,,,,97.0,2021-06-03,,Electronics
+1808,Samuel Conner,female,15.0,,5.0,invalid_date,,eLeCtrOnIcs
+1809,JENNY,female,60.0,370.31,66.0,invalid_date,,furnITure
+1810,,unknown,54.0,91.16,,2021-06-28,,Electronics
+1811,Todd,MALE,70.0,,47.0,2024-02-14,natalie43@yahoo.com,clothing
+1812,,,,89.94,,,ivillanueva@cabrera.com,CLOTHING
+1813,kathleen,,21.0,160.66,33.0,2025-02-25,williamsrebecca@yahoo.com,eLeCtrOnIcs
+1814,,,,135.28,161.0,,sandragraves@hotmail.com,furniture
+1815,Eric Moore,MALE,,30.79,158.0,2021-13-40,christine57@huff.info,CLOTHING
+1816,Alexis,unknown,38.0,66.06,,2021-13-40,brenda44@yahoo.com,Cloth ing
+1817,,female,73.0,492.05,154.0,,amandamoreno@smith.com,ClOThIng
+1818,Julia,unknown,39.0,210.11,,,,Cloth ing
+1819,Gail,,67.0,,96.0,2012-11-20,,Electronics
+1820,Stacy,MALE,47.0,173.61,,2021-13-40,jmoon@hotmail.com,Electronics
+1821,LISA,MALE,50.0,-48.66,,2021-03-19,winterscynthia@kaufman.info,clothing
+1822,Jesse,,37.0,136.28,81.0,invalid_date,,Cloth ing
+1823,Sarah Krueger,MALE,,94.92,135.0,2025-04-08,ygill@conner-brown.com,eLeCtrOnIcs
+1824,,unknown,,277.56,,2010-04-26,,electronics
+1825,kimberly,Female,,472.51,,,,furnITure
+1826,JOANNE,MALE,30.0,99.66,68.0,2006-07-23,,ClOThIng
+1827,,unknown,,,68.0,,,ClOThIng
+1828,,,24.0,143.36,3.0,2021-13-40,,Cloth ing
+1829,,unknown,,98.87,36.0,2020-09-20,bdavis@hotmail.com,Electronics
+1830,Isabella,MALE,58.0,,34.0,2006-03-24,ahernandez@hotmail.com,ClOThIng
+1831,Carla Atkins,MALE,,-16.44,,invalid_date,,furniture
+1832,Edwin Armstrong,unknown,25.0,134.73,24.0,2013-07-29,,eLeCtrOnIcs
+1833,Kristin,Male,42.0,-12.6,109.0,2024-05-17,,Electronics
+1834,alexis,female,80.0,166.44,112.0,,,furniture
+1835,CHRISTINE,,,2.57,,2003-01-31,heathkaitlyn@hotmail.com,CLOTHING
+1836,VICTORIA,Male,43.0,,23.0,,cnorman@gmail.com,Cloth ing
+1837,ANITA,Male,52.0,-30.75,176.0,invalid_date,,eLeCtrOnIcs
+1838,Jeffrey Baird,unknown,53.0,125.88,55.0,,eriley@chapman-hudson.com,clothing
+1839,Stephen Graham,MALE,71.0,378.85,154.0,2020-12-26,,electronics
+1840,Ricky,,34.0,65.09,93.0,2020-07-11,,eLeCtrOnIcs
+1841,Donna Campbell,MALE,65.0,378.96,,,,electronics
+1842,KELLY,unknown,,301.41,169.0,invalid_date,,electronics
+1843,matthew,MALE,87.0,,,2007-12-26,,ClOThIng
+1844,julie,,22.0,42.27,149.0,,,clothing
+1845,,unknown,12.0,185.96,22.0,2020-09-26,ryanwhite@gmail.com,furniture
+1846,larry,Female,23.0,418.87,179.0,invalid_date,williamsteresa@macias.com,ClOThIng
+1847,kimberly,Female,,153.97,124.0,2024-08-02,,clothing
+1848,Nicole Baker,female,98.0,-15.27,154.0,invalid_date,alisonanderson@ross-mckay.org,Electronics
+1849,Jacqueline,unknown,68.0,-34.16,1.0,invalid_date,,ClOThIng
+1850,,female,70.0,7.99,184.0,2011-05-11,,eLeCtrOnIcs
+1851,chris,female,39.0,54.54,93.0,2021-13-40,tbutler@hotmail.com,Cloth ing
+1852,KEVIN,,74.0,174.81,,2021-10-19,,Electronics
+1853,Jennifer Porter,MALE,42.0,187.84,,2021-03-20,,furnITure
+1854,GARY,,,119.12,163.0,,nicholas70@nelson-sullivan.net,furnITure
+1855,donald,female,73.0,-4.14,88.0,2021-13-40,,clothing
+1856,John Gaines,Female,44.0,166.81,130.0,2022-04-14,,ClOThIng
+1857,andrew,female,,401.67,181.0,,robert93@reyes-grant.com,furniture
+1858,RENEE,Female,95.0,41.01,,,xdennis@gmail.com,clothing
+1859,,Female,,,52.0,2021-13-40,,furnITure
+1860,Stacy Cunningham,unknown,,,,,,Electronics
+1861,Adam Jordan,Male,,161.64,130.0,2021-13-40,,Cloth ing
+1862,ALLEN,female,61.0,,133.0,invalid_date,,furnITure
+1863,timothy,female,,-7.39,,,,furnITure
+1864,ALAN,female,72.0,113.4,,2021-13-40,,ClOThIng
+1865,,Female,54.0,,34.0,2024-11-01,rhondasmith@richards.com,furniture
+1866,Mathew,Male,66.0,,29.0,,,ClOThIng
+1867,jennifer,unknown,,150.97,,2022-10-06,,electronics
+1868,,female,,131.03,,invalid_date,,clothing
+1869,ROBERT,MALE,,42.4,163.0,,,furnITure
+1870,amanda,MALE,,,,2008-02-10,,electronics
+1871,andrea,,,487.33,106.0,,,eLeCtrOnIcs
+1872,Joseph Fletcher PhD,unknown,,,9.0,2021-13-40,,furnITure
+1873,CURTIS,unknown,,74.83,191.0,2024-05-05,,Electronics
+1874,Kenneth,MALE,,194.63,145.0,2012-02-11,gavin23@yahoo.com,Electronics
+1875,michael,,,,36.0,,uryan@yahoo.com,clothing
+1876,RAYMOND,unknown,54.0,,52.0,2021-13-40,,furnITure
+1877,,MALE,,,,invalid_date,,clothing
+1878,CHARLES,unknown,29.0,-39.57,87.0,invalid_date,,clothing
+1879,Karen,,46.0,-44.12,98.0,invalid_date,,Electronics
+1880,Richard,,98.0,58.1,161.0,2003-09-07,,furniture
+1881,Anthony,unknown,73.0,409.9,,,,Cloth ing
+1882,,female,87.0,374.7,157.0,2016-02-24,xmay@gmail.com,clothing
+1883,CANDACE,unknown,81.0,29.95,146.0,invalid_date,,furniture
+1884,Matthew Dean,female,82.0,98.57,4.0,invalid_date,debbie21@gmail.com,Cloth ing
+1885,,MALE,54.0,254.27,21.0,invalid_date,,eLeCtrOnIcs
+1886,Keith,MALE,,117.04,177.0,2021-13-40,bobbybrown@fitzgerald.org,CLOTHING
+1887,Matthew,unknown,15.0,,,,williamallen@perez.com,eLeCtrOnIcs
+1888,,female,,,,,,furnITure
+1889,stefanie,female,61.0,-43.78,69.0,2021-13-40,jillhurst@yahoo.com,Electronics
+1890,Kelly,female,,175.88,,,,ClOThIng
+1891,CRYSTAL,Male,63.0,250.61,,2023-02-23,,Cloth ing
+1892,,MALE,67.0,18.94,76.0,invalid_date,,Cloth ing
+1893,MARGARET,MALE,31.0,,116.0,2002-03-21,thomas27@perez.com,ClOThIng
+1894,Lisa Lang,unknown,23.0,103.49,151.0,invalid_date,,clothing
+1895,jamie,,,18.04,160.0,2023-02-02,daniel38@washington.org,electronics
+1896,Kerry,unknown,,-35.42,41.0,2008-11-29,,ClOThIng
+1897,STEVEN,unknown,,115.78,102.0,,,electronics
+1898,Christine James,,41.0,152.01,,,,furnITure
+1899,Stephanie Ross,unknown,58.0,-25.3,,invalid_date,,furnITure
+1900,KATRINA,MALE,52.0,,40.0,,,CLOTHING
+1901,jacqueline,unknown,50.0,283.83,133.0,2021-10-09,,eLeCtrOnIcs
+1902,melanie,MALE,,,18.0,2012-10-11,royvazquez@stevens.com,furnITure
+1903,Jennifer Sexton,MALE,72.0,5.58,,2021-13-40,,Cloth ing
+1904,Christina,,96.0,78.38,98.0,2021-13-40,,furniture
+1905,Hannah Carter,unknown,36.0,,-5.0,,,ClOThIng
+1906,THOMAS,,31.0,156.33,41.0,,,furniture
+1907,RICHARD,MALE,,,111.0,2002-11-18,,CLOTHING
+1908,Crystal,,54.0,46.94,64.0,,,furniture
+1909,jennifer,Female,45.0,-19.65,,2020-02-28,djones@higgins.com,furnITure
+1910,Christine Herring,,,,178.0,,,clothing
+1911,,MALE,45.0,,133.0,2024-12-06,janicebaker@yahoo.com,eLeCtrOnIcs
+1912,deanna,Male,31.0,,197.0,invalid_date,,clothing
+1913,Heather Porter,female,70.0,441.38,71.0,2023-03-29,,Electronics
+1914,CHARLES,unknown,42.0,107.15,137.0,2001-03-05,,Cloth ing
+1915,SARA,MALE,24.0,444.23,,2019-02-16,,clothing
+1916,steven,Male,,-29.89,-1.0,,,furnITure
+1917,DANIEL,,47.0,173.5,123.0,,,furniture
+1918,STEPHEN,MALE,75.0,236.01,75.0,invalid_date,,eLeCtrOnIcs
+1919,,,36.0,246.64,159.0,,,electronics
+1920,benjamin,,32.0,87.33,130.0,2012-01-24,,CLOTHING
+1921,EDWARD,unknown,,109.18,26.0,2025-01-18,,furniture
+1922,Jessica Bowman,Male,,472.44,41.0,2020-04-15,,clothing
+1923,Michelle,Female,57.0,-30.99,,invalid_date,zbenson@hotmail.com,furnITure
+1924,,Female,41.0,,,2019-04-15,,furnITure
+1925,jessica,unknown,77.0,19.42,27.0,2021-13-40,haleynicole@hotmail.com,furniture
+1926,,unknown,50.0,365.06,82.0,,,eLeCtrOnIcs
+1927,Drew,unknown,49.0,,142.0,2021-13-40,,ClOThIng
+1928,,Female,99.0,98.74,166.0,2015-03-11,,CLOTHING
+1929,,Male,49.0,,33.0,2019-03-27,,Cloth ing
+1930,ROBERTA,unknown,63.0,109.31,108.0,,,CLOTHING
+1931,julie,unknown,72.0,18.05,,2024-09-15,,furnITure
+1932,danny,,61.0,,,2023-10-07,,Cloth ing
+1933,David,,68.0,,,2012-05-26,ymosley@butler.org,CLOTHING
+1934,JESSICA,unknown,62.0,-10.57,76.0,2009-09-27,,furnITure
+1935,Rachel Phillips,female,13.0,116.76,80.0,invalid_date,florestroy@hotmail.com,furnITure
+1936,Jeremiah Malone,MALE,,164.65,175.0,,gweaver@miller.biz,furniture
+1937,MICHAEL,MALE,,135.01,17.0,2013-07-31,jaredford@arroyo.biz,Electronics
+1938,kevin,Female,71.0,,,invalid_date,,furniture
+1939,,unknown,34.0,180.71,,2021-05-15,,clothing
+1940,Carlos,female,,167.71,110.0,2021-13-40,stevensonjessica@gmail.com,electronics
+1941,Jean Smith,MALE,,121.36,68.0,,,eLeCtrOnIcs
+1942,LEAH,female,20.0,,8.0,2002-08-10,,CLOTHING
+1943,Christopher,Female,41.0,149.3,149.0,invalid_date,kwalsh@yahoo.com,Electronics
+1944,,Female,61.0,480.97,35.0,2004-05-01,robinwolfe@gmail.com,electronics
+1945,MEGHAN,,57.0,,,2023-08-17,,clothing
+1946,thomas,MALE,,168.64,,invalid_date,,CLOTHING
+1947,Kayla,MALE,60.0,243.08,113.0,invalid_date,richardroberts@horn.biz,clothing
+1948,JOHN,,17.0,,,2023-10-09,michaelsmith@hamilton.com,Electronics
+1949,GABRIELLA,female,49.0,414.37,182.0,2022-07-18,kelsey02@peterson-martin.com,Electronics
+1950,Melissa,unknown,27.0,76.12,42.0,2006-03-23,,Electronics
+1951,ANGELICA,,,3.79,83.0,,mistyowens@gmail.com,Electronics
+1952,STEPHANIE,Male,,68.14,,2023-09-26,,clothing
+1953,Kyle,female,77.0,-31.16,12.0,2021-13-40,,eLeCtrOnIcs
+1954,mathew,female,39.0,155.16,34.0,,,ClOThIng
+1955,Stephen,unknown,80.0,,92.0,invalid_date,odixon@dunn.com,eLeCtrOnIcs
+1956,julie,MALE,,,87.0,,,electronics
+1957,,Female,74.0,264.38,24.0,2014-08-24,zpadilla@johnston.org,eLeCtrOnIcs
+1958,MICHELLE,Female,,-11.09,3.0,invalid_date,nancychristian@moran.com,furnITure
+1959,Amanda Kelley,,59.0,337.26,27.0,2021-13-40,,Electronics
+1960,anthony,unknown,65.0,438.73,,2021-05-16,,Cloth ing
+1961,Jessica,MALE,46.0,,144.0,invalid_date,,eLeCtrOnIcs
+1962,Jeffery,unknown,,,51.0,2000-08-24,,clothing
+1963,James,Male,,,59.0,invalid_date,steven43@gmail.com,electronics
+1964,Kenneth,MALE,82.0,438.07,165.0,invalid_date,,Electronics
+1965,TERRI,unknown,56.0,,11.0,2004-07-26,,ClOThIng
+1966,Jessica Miller,,,194.43,186.0,2021-13-40,,electronics
+1967,Casey Hunter,,93.0,293.53,75.0,2021-02-06,gtaylor@hotmail.com,Electronics
+1968,phillip,female,30.0,,107.0,2020-05-14,moorestacey@gmail.com,electronics
+1969,LAURA,unknown,,159.7,197.0,,stephen39@wright.org,clothing
+1970,Jared Dickerson,female,77.0,79.33,,,robertkidd@gordon.org,clothing
+1971,michael,,52.0,99.42,182.0,2010-05-24,anaweaver@johnson.net,furnITure
+1972,joel,,,125.7,83.0,2022-04-26,barbara45@wallace.org,electronics
+1973,JOHNNY,,43.0,,178.0,invalid_date,,clothing
+1974,John,unknown,30.0,63.93,121.0,invalid_date,iwu@ferrell-foster.com,Cloth ing
+1975,Melinda,Male,48.0,128.43,,2025-01-10,tina25@white.com,ClOThIng
+1976,Laura Andrews,Male,32.0,159.15,130.0,2006-09-02,,furnITure
+1977,patricia,,66.0,,9.0,invalid_date,,electronics
+1978,,female,92.0,16.68,176.0,,troymartinez@gmail.com,ClOThIng
+1979,Scott,,51.0,,167.0,2023-04-01,,Electronics
+1980,mark,Female,45.0,222.17,152.0,2021-13-40,,Electronics
+1981,KENDRA,unknown,45.0,451.91,192.0,2021-13-40,,CLOTHING
+1982,Mackenzie Sanders,Male,38.0,32.92,,,,Electronics
+1983,Lisa,MALE,55.0,463.51,,invalid_date,,clothing
+1984,Aaron Saunders,female,,,185.0,2013-10-29,april00@davis-jordan.com,electronics
+1985,eric,Female,58.0,,26.0,invalid_date,,furnITure
+1986,Gary Johnson,,76.0,,47.0,2010-01-25,,CLOTHING
+1987,HAROLD,female,,146.48,75.0,2013-06-24,,ClOThIng
+1988,austin,,65.0,4.12,,2011-01-28,,furnITure
+1989,,female,,234.84,,,,ClOThIng
+1990,Dylan,,40.0,,,2024-06-29,,furnITure
+1991,STEPHEN,female,,1.36,70.0,2021-13-40,,clothing
+1992,audrey,MALE,,255.97,-5.0,2004-09-09,,furnITure
+1993,Anna Ellis,MALE,37.0,,,2021-13-40,,CLOTHING
+1994,,MALE,,,,2025-04-12,,ClOThIng
+1995,Alan,female,65.0,396.29,42.0,invalid_date,,Cloth ing
+1996,carol,,58.0,,,2022-08-11,,Cloth ing
+1997,Robert Hansen,female,76.0,136.43,52.0,2024-03-27,,electronics
+1998,kristin,,,,139.0,2025-06-23,,Electronics
+1999,Brian Bailey,MALE,68.0,13.7,,invalid_date,,Electronics
+2000,Kevin Crane,unknown,49.0,118.42,,invalid_date,,eLeCtrOnIcs

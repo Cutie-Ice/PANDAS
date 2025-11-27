@@ -1,0 +1,9 @@
+{
+  "products": [
+    {"name": "Laptop", "price": 1200, "quantity": 5},
+    {"name": "Mouse", "price": 25, "quantity": 20},
+    {"name": "Keyboard", "price": 75, "quantity": 15},
+    {"name": "Monitor", "price": 300, "quantity": 8},
+    {"name": "USB Cable", "price": 10, "quantity": 50}
+  ]
+}
